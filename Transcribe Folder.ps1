@@ -1,0 +1,179 @@
+param([Parameter(ValueFromRemainingArguments = $true)][string[]]$Targets)
+
+# ================= Settings =================
+# Model: tiny / base / small / medium / large-v2 / large-v3
+$Model   = 'large-v2'
+# Language: '' = auto-detect (best for mixed RU/EN). Or 'en' / 'ru'.
+$Lang    = ''
+# Output formats: txt srt json vtt tsv lrc
+$Formats = @('txt', 'srt', 'json')
+# ============================================
+
+$root = Split-Path -Parent $MyInvocation.MyCommand.Path
+$exe  = Join-Path $root 'faster-whisper-xxl.exe'
+
+# --- Modern Explorer-style folder picker (Vista IFileOpenDialog) ---
+$csharp = @'
+using System;
+using System.Runtime.InteropServices;
+
+public static class ModernFolderPicker
+{
+    [ComImport, Guid("DC1C5A9C-E88A-4dde-A5A1-60F82A20AEF7")]
+    private class FileOpenDialogRCW { }
+
+    [ComImport, Guid("d57c7288-d4ad-4768-be02-9d969532d960"),
+     InterfaceType(ComInterfaceType.InterfaceIsIUnknown)]
+    private interface IFileOpenDialog
+    {
+        [PreserveSig] int Show(IntPtr parent);
+        void SetFileTypes(uint cFileTypes, IntPtr rgFilterSpec);
+        void SetFileTypeIndex(uint iFileType);
+        void GetFileTypeIndex(out uint piFileType);
+        void Advise(IntPtr pfde, out uint pdwCookie);
+        void Unadvise(uint dwCookie);
+        void SetOptions(uint fos);
+        void GetOptions(out uint pfos);
+        void SetDefaultFolder(IShellItem psi);
+        void SetFolder(IShellItem psi);
+        void GetFolder(out IShellItem ppsi);
+        void GetCurrentSelection(out IShellItem ppsi);
+        void SetFileName([MarshalAs(UnmanagedType.LPWStr)] string pszName);
+        void GetFileName([MarshalAs(UnmanagedType.LPWStr)] out string pszName);
+        void SetTitle([MarshalAs(UnmanagedType.LPWStr)] string pszTitle);
+        void SetOkButtonLabel([MarshalAs(UnmanagedType.LPWStr)] string pszText);
+        void SetFileNameLabel([MarshalAs(UnmanagedType.LPWStr)] string pszLabel);
+        void GetResult(out IShellItem ppsi);
+        void AddPlace(IShellItem psi, int alignment);
+        void SetDefaultExtension([MarshalAs(UnmanagedType.LPWStr)] string pszDefaultExtension);
+        void Close([MarshalAs(UnmanagedType.Error)] int hr);
+        void SetClientGuid(ref Guid guid);
+        void ClearClientData();
+        void SetFilter(IntPtr pFilter);
+        void GetResults(out IntPtr ppenum);
+        void GetSelectedItems(out IntPtr ppsai);
+    }
+
+    [ComImport, Guid("43826d1e-e718-42ee-bc55-a1e261c37bfe"),
+     InterfaceType(ComInterfaceType.InterfaceIsIUnknown)]
+    private interface IShellItem
+    {
+        void BindToHandler(IntPtr pbc, ref Guid bhid, ref Guid riid, out IntPtr ppv);
+        void GetParent(out IShellItem ppsi);
+        void GetDisplayName(uint sigdnName, [MarshalAs(UnmanagedType.LPWStr)] out string ppszName);
+        void GetAttributes(uint sfgaoMask, out uint psfgaoAttribs);
+        void Compare(IShellItem psi, uint hint, out int piOrder);
+    }
+
+    [DllImport("shell32.dll", CharSet = CharSet.Unicode, PreserveSig = false)]
+    private static extern void SHCreateItemFromParsingName(
+        [MarshalAs(UnmanagedType.LPWStr)] string pszPath, IntPtr pbc,
+        [MarshalAs(UnmanagedType.LPStruct)] Guid riid,
+        [MarshalAs(UnmanagedType.Interface)] out IShellItem ppv);
+
+    private const uint FOS_NOCHANGEDIR     = 0x00000008;
+    private const uint FOS_PICKFOLDERS     = 0x00000020;
+    private const uint FOS_FORCEFILESYSTEM = 0x00000040;
+    private const uint SIGDN_FILESYSPATH   = 0x80058000;
+
+    public static string Pick(string title, string startPath)
+    {
+        var dlg = (IFileOpenDialog)(new FileOpenDialogRCW());
+        uint opts;
+        dlg.GetOptions(out opts);
+        dlg.SetOptions(opts | FOS_PICKFOLDERS | FOS_FORCEFILESYSTEM | FOS_NOCHANGEDIR);
+        if (!string.IsNullOrEmpty(title)) { dlg.SetTitle(title); }
+        if (!string.IsNullOrEmpty(startPath))
+        {
+            try
+            {
+                IShellItem start;
+                SHCreateItemFromParsingName(startPath, IntPtr.Zero, typeof(IShellItem).GUID, out start);
+                dlg.SetFolder(start);
+            }
+            catch { }
+        }
+        if (dlg.Show(IntPtr.Zero) != 0) { return null; }   // user cancelled
+        IShellItem item;
+        dlg.GetResult(out item);
+        string path;
+        item.GetDisplayName(SIGDN_FILESYSPATH, out path);
+        return path;
+    }
+}
+'@
+
+function Select-RecordingFolder {
+    # Reopen where you last picked, so repeat runs are one click
+    $memo = Join-Path $env:LOCALAPPDATA 'fwxxl_last_folder.txt'
+    $start = ''
+    if (Test-Path $memo) {
+        $saved = (Get-Content $memo -ErrorAction SilentlyContinue | Select-Object -First 1)
+        if ($saved -and (Test-Path $saved)) { $start = $saved }
+    }
+
+    $picked = $null
+    try {
+        if (-not ('ModernFolderPicker' -as [type])) {
+            Add-Type -TypeDefinition $script:csharp -ErrorAction Stop
+        }
+        $picked = [ModernFolderPicker]::Pick('Pick a folder with recordings', $start)
+    }
+    catch {
+        # Fallback: classic tree picker, if the COM dialog is unavailable
+        Add-Type -AssemblyName System.Windows.Forms
+        $d = New-Object System.Windows.Forms.FolderBrowserDialog
+        $d.Description = 'Pick a folder with recordings'
+        if ($start) { $d.SelectedPath = $start }
+        if ($d.ShowDialog() -eq 'OK') { $picked = $d.SelectedPath }
+    }
+
+    if ($picked) { Set-Content -Path $memo -Value $picked -Encoding utf8 }
+    return $picked
+}
+
+Write-Host ''
+Write-Host '  === Faster-Whisper-XXL : folder transcription ===' -ForegroundColor Cyan
+Write-Host ''
+
+if (-not (Test-Path $exe)) {
+    Write-Host "  faster-whisper-xxl.exe not found next to this script." -ForegroundColor Red
+    exit 1
+}
+
+# Folders/files can be dropped on the .bat; otherwise show the picker
+if (-not $Targets -or $Targets.Count -eq 0) {
+    $sel = Select-RecordingFolder
+    if (-not $sel) {
+        Write-Host '  No folder selected. Nothing to do.' -ForegroundColor Yellow
+        Write-Host ''
+        exit 0
+    }
+    $Targets = @($sel)
+}
+
+$valid = @($Targets | Where-Object { $_ -and (Test-Path -LiteralPath $_) })
+if ($valid.Count -eq 0) {
+    Write-Host '  Nothing valid to process.' -ForegroundColor Red
+    Write-Host ''
+    exit 1
+}
+
+foreach ($t in $valid) { Write-Host "  Input  : $t" }
+Write-Host "  Model  : $Model"
+if ($Lang) { Write-Host "  Lang   : $Lang" } else { Write-Host '  Lang   : auto-detect' }
+Write-Host ''
+
+$fwArgs = @()
+$fwArgs += $valid
+$fwArgs += @('-m', $Model)
+if ($Lang) { $fwArgs += @('-l', $Lang) }
+$fwArgs += @('-o', 'source', '-br', '-f')
+$fwArgs += $Formats
+$fwArgs += @('--check_files', '--standard', '-pp', '--skip', '--beep_off')
+
+& $exe @fwArgs
+
+Write-Host ''
+Write-Host '  Done. Transcripts are saved next to each recording.' -ForegroundColor Green
+Write-Host ''

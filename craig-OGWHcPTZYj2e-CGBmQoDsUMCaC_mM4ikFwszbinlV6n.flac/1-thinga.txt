@@ -1,0 +1,587 @@
+[00:06.780 --> 00:07.580]  It's the first time I'm seeing you live.
+[00:41.480 --> 00:44.760]  I'm so glad you're here.
+[00:48.760 --> 01:06.320]  I'm so glad you're here.
+[01:18.270 --> 01:19.750]  Good afternoon,
+[01:30.260 --> 01:41.560]  yeah this thing is bought it will record
+our voice lines so yeah this is the thing
+[01:41.560 --> 01:44.260]  I talked about before
+[01:54.320 --> 02:04.480]  yeah okay I can't I was not able to join
+the last lesson it was the issue with my
+[02:04.480 --> 02:15.300]  schedule I I screwed it up because of high
+dosage of coffee so I didn't sleep the
+[02:15.300 --> 02:24.860]  whole night and that's simple it was the
+main reason and and yeah the week was
+[02:24.860 --> 02:32.820]  decent not that much things going on my at
+my work I focusing it English learning
+[02:32.820 --> 02:42.420]  trying to do some stuff with my project
+and and yeah how how was your week
+[02:56.660 --> 03:27.420]  what well
+[03:31.100 --> 03:40.580]  I you know okay no I haven't seen the new
+spider-man but it's kind of a similar
+[03:40.580 --> 03:47.880]  situation for me because I'm not really
+enjoying watching movies even at home but
+[03:47.880 --> 03:55.580]  this year with my girlfriend we visited a
+lot of movies in cinema and it was much
+[03:55.580 --> 03:59.500]  better than I remembered so yeah I miss it
+[04:43.300 --> 05:17.700]  they if I would provide some more details
+from my side I was still were evolving
+[05:17.700 --> 05:26.600]  that thinking process about about how how
+should about that process of kind of mock
+[05:26.600 --> 05:34.680]  interviewing mock mock interview in my
+project and I think that a simple mock
+[05:34.680 --> 05:44.700]  interview that we had before is the actual
+thing because it's really hard to make to
+[05:44.700 --> 05:50.700]  make this dialogue about some project
+interactive rather than just a prepared
+[05:50.700 --> 05:57.640]  question so yeah
+[08:21.250 --> 08:30.210]  yeah I like the approach yeah from my side
+it almost looks the same what I would do
+[08:30.210 --> 08:38.450]  besides of that is that between the
+lessons I have found a few resources a few
+[08:38.450 --> 08:43.810]  websites that provides you a bunch of
+questions about a bunch of interview
+[08:43.810 --> 08:52.850]  questions based on the stack you selected
+and I I will try to practice it between
+[08:52.850 --> 08:59.030]  the lessons try you some different
+questions right to ask it the AI will
+[08:59.030 --> 09:11.170]  review me and we can work around some weak
+spots that I will get and we will just
+[09:11.170 --> 09:21.030]  practice it and I will so from my side I
+will practice more in tech side in tech
+[09:21.030 --> 09:27.570]  side and in our English classes we will
+just improve the way I can answer this
+[09:27.570 --> 09:30.710]  question maybe this is one of the best
+approaches
+[11:09.410 --> 11:27.920]  yeah yeah good so yeah no different
+service different service some custom one
+[11:27.920 --> 11:31.560]  and they they may be even funnier than
+those
+[11:43.030 --> 12:00.570]  I already sharing the screen you can you
+can see it wait a second yes yes I have so
+[12:00.570 --> 12:10.890]  you you have to click on the you see all
+right I just noticed that this thing
+[12:10.890 --> 12:18.150]  called called in the Russian do you also
+have the same Russian name here or it
+[12:18.150 --> 12:27.950]  automatically translate to English oh okay
+a little bit mistake from my side okay
+[12:27.950 --> 12:42.930]  okay so I briefly got through through this
+module and yeah it covers almost all the
+[12:42.930 --> 12:51.910]  basics let's just get step-by-step and got
+all the interesting parts we also can go
+[12:51.910 --> 13:00.310]  out of script easily it's just a template
+anyway you
+[13:07.050 --> 13:14.930]  can interrupt me and asking some chance it
+will be even better than just listen so
+[13:14.930 --> 13:26.050]  first of all I have wonderful extension
+dark reader I really like it my heart my
+[13:26.050 --> 13:35.730]  eyes hurts me with the blue one oh sorry
+with the white one let's let's begin with
+[13:35.730 --> 13:48.830]  so basically on most all of these sections
+covers the theoretical things and I will
+[13:48.830 --> 13:56.370]  skip this one first of all because this is
+a pure theory and secondary because we
+[13:56.370 --> 14:04.630]  already know that there is a NHTML CSS and
+JavaScript such a finish our exists so we
+[14:04.630 --> 14:10.610]  can jump straight to the second one and
+this second one gives us a little bit more
+[14:10.610 --> 14:18.450]  interesting thing to work with this thing
+is f12 the death death tools it exists
+[14:18.450 --> 14:27.130]  across all the browsers and gives us a
+life sub sandbox to to work around and
+[14:27.130 --> 14:35.490]  play with some some codes run JavaScript
+on flight for example we can
+[14:44.990 --> 14:55.970]  just print W and the good thing is because
+JavaScript is a script based language it
+[14:55.970 --> 15:00.950]  means that it runs in the environment you
+don't have to compile it in the program it
+[15:00.950 --> 15:08.110]  will run automatically on the flight we
+get the output straight after we press
+[15:08.110 --> 15:17.090]  enter and every every project every
+comment will work the same way here for
+[15:17.090 --> 15:34.290]  our convenience I will put this in a video
+like that so we could and and yeah so
+[15:34.290 --> 15:42.770]  these sections covered the ID the
+environment of development an application
+[15:42.770 --> 15:53.850]  in this case it tells us have you used
+this one visual studio code visual studio
+[15:53.850 --> 16:00.710]  there is a to sit to face the visual
+studio and visual studio code we can the
+[16:00.710 --> 16:04.150]  similar the second one is just lighter
+[16:26.060 --> 16:37.400]  talking from the perspective of a person
+that just learning is starting to learn
+[16:37.400 --> 16:44.220]  programming and pick the JavaScript as his
+first language it would be it will be
+[16:44.220 --> 16:55.540]  beneficial it will be desirable step to
+have a local pet project to train his
+[16:55.540 --> 17:02.160]  programming encoding skills personally I
+believe that the best approaches has 90
+[17:02.160 --> 17:09.840]  percent of practice and 10% of theory and
+pet project in this case will be a great
+[17:09.840 --> 17:14.320]  opportunity to do such a thing it
+[17:35.950 --> 17:39.210]  hold on a second
+[17:44.370 --> 17:47.250]  compartment you used to work
+[18:18.380 --> 18:30.280]  I kind of missing the meaning of this
+question maybe it's because of English
+[18:30.280 --> 18:31.500]  maybe it's because of
+[19:11.590 --> 19:17.370]  all right thank you for providing me the
+question in a with a different paraphrase
+[19:17.370 --> 19:26.830]  we will behave based on our goals and
+let's say we have a goal to learn
+[19:26.830 --> 19:38.390]  JavaScript and get our first job in this
+area in this major in order to know
+[19:38.390 --> 19:45.670]  JavaScript we have to not just read some
+docs we have to practice it so we have to
+[19:45.670 --> 19:54.890]  build some actual website and in order to
+practice it we can create we can create a
+[19:54.890 --> 20:02.950]  project and in project we can you
+mentioned the game called Tetris we can
+[20:02.950 --> 20:12.250]  actually build the Tetris in this web
+application in for what we we can do of
+[20:12.250 --> 20:15.970]  course we can build anything so yeah
+[20:36.250 --> 20:47.550]  this question this question covers a
+little bit more advanced techniques as a
+[20:47.550 --> 20:54.130]  first project as a first project it will
+be it will be good practice to have a
+[20:54.130 --> 21:02.550]  simple one if for example if you go if you
+want to I don't know some landing page or
+[21:02.550 --> 21:10.390]  simple maybe with simple interactivity for
+for user it will be a good good example
+[21:10.390 --> 21:20.990]  you also so you can split these little
+applications separately or keep it in one
+[21:20.990 --> 21:26.490]  but it will be more complex and it
+requires better understanding of an
+[21:26.490 --> 21:33.690]  architecture and the tools we use in so
+both approaches are valid it depends off
+[21:33.690 --> 21:36.390]  it depends on our goals and our knowledge
+[21:39.870 --> 21:53.170]  all right all right so we can I'm not sure
+which approach is the best based on our
+[21:53.170 --> 21:58.990]  context by context I mean it is just we
+just primarily talking about JavaScript
+[21:58.990 --> 22:07.870]  we're not actually trying to learn it so
+all right
+[22:25.560 --> 22:33.380]  so yeah let's well let's assume we decided
+to create a new project and this project
+[22:33.380 --> 22:42.140]  will be which about what about what this
+project will be it should be something
+[22:42.140 --> 22:46.960]  something simple something simple
+[22:51.680 --> 22:55.880]  something so
+[22:59.080 --> 23:10.760]  oh okay okay there will be images all
+right we created a new folder it's empty
+[23:10.760 --> 23:17.940]  nothing in there but it is just yet so
+this is a Visual Studio code oh my god it
+[23:17.940 --> 23:28.920]  was a long time I was here last time and
+all right we have to create a basic
+[23:28.920 --> 23:38.400]  structure of our application as we know
+every website has an HTML file and this
+[23:38.400 --> 23:50.160]  will be structured the same way it's index
+HTML we can do we can do a simple shortcut
+[23:50.160 --> 24:01.540]  to create a basic structure it will be
+like that let me actually check which what
+[24:01.540 --> 24:12.420]  is this gender suggesting h1 button script
+app okay let's copy the body and paste it
+[24:12.420 --> 24:18.660]  here and also let me increase the font
+size how can I do it like that we will
+[24:18.660 --> 24:30.200]  close the agent window it this is a dark
+forbidden technology for us for now I'm
+[24:30.200 --> 24:38.100]  thinking which which direction should I go
+next so we're trying to build it build an
+[24:38.100 --> 24:44.380]  actual project let's let's let's just go
+step by step based on the chat I think
+[24:44.380 --> 24:52.540]  this is a good approach so step two is
+create the JavaScript all right yeah I
+[24:52.540 --> 25:03.400]  will not cover the syntax the syntax
+because it's you know mostly most time
+[25:03.400 --> 25:11.100]  it's just boring and that it's it's more
+interesting to actually type it in
+[25:11.100 --> 25:17.440]  practice it rather than talking about it
+so let's get a little bit higher level of
+[25:17.440 --> 25:18.720]  view what what is going on
+[25:39.190 --> 25:48.410]  all right yeah let me cover in a simple
+way what is going on here so doc the first
+[25:48.410 --> 25:57.070]  string is is a basic one it exists in
+exists in all of the HTML files and none
+[25:57.070 --> 26:05.890]  of the none of the developers writing it
+by hand moreover this template also our
+[26:05.890 --> 26:13.930]  days none of the developers writing it by
+hand anymore mostly developers writing to
+[26:13.930 --> 26:22.750]  JavaScript rather than HTML the section of
+head is representing the title of our
+[26:22.750 --> 26:30.550]  application and some specific data for
+some specific subspecific data that we
+[26:30.550 --> 26:38.590]  don't care at this point of development it
+just exists and the second the third the
+[26:38.590 --> 26:45.370]  third part the further important part is
+our body the body of our application the
+[26:45.370 --> 26:52.470]  whole content the whole thing that we will
+see so basically all what we what we seen
+[26:52.470 --> 27:03.450]  is the body and yeah it has a h1 which is
+which is a huge title the button which is
+[27:03.450 --> 27:10.190]  a button and this one is a little bit
+different the script is is a link to an
+[27:10.190 --> 27:16.030]  another file which is exist in scope of
+this application but we don't have it yet
+[27:16.030 --> 27:31.690]  let's create such one yes so let's jump
+back to agenda what it should suggest
+[27:31.690 --> 27:43.170]  suggests to us storage boxes it covers how
+we can allocate a variable it's about
+[27:43.170 --> 27:53.710]  syntax not that interesting actually just
+just a few sentences it covers how we can
+[27:53.710 --> 28:03.270]  allocate a variable in JavaScript there is
+a few ways of doing it and yeah okay
+[28:19.420 --> 28:27.220]  I like the question I really like the
+question because this this might feel this
+[28:27.220 --> 28:33.940]  might feels it's a simple question but
+it's in order to understand how it works
+[28:33.940 --> 28:41.000]  it you have to dig down to much lower
+level of how our computer works and how
+[28:41.000 --> 28:47.860]  this specific language works in in
+JavaScript let me provide an example so we
+[28:47.860 --> 28:57.520]  will have a graph talk about so in order
+to create a variable let's I will create a
+[28:57.520 --> 29:07.460]  person can just describe right now so
+there the red theme is a keyword it
+[29:07.460 --> 29:13.440]  represents that it tells the language that
+we want to create a variable actually the
+[29:13.440 --> 29:19.000]  second part is a name of a variable so we
+can access it later and the third part is
+[29:19.000 --> 29:26.600]  a is the content of this variable it might
+be string number boolean values some some
+[29:26.600 --> 29:38.040]  data structure some function etc etc about
+your first question that our variables may
+[29:38.040 --> 29:52.200]  may land in local or global global
+environment oh it's it's a complicated
+[29:52.200 --> 29:56.040]  thing to answer even it even with my
+experience
+[30:33.250 --> 30:43.850]  yeah let's continue so yeah it covers some
+variables console log naming rules yeah
+[30:43.850 --> 30:51.810]  there is a there is a different ways of
+how we can name a variable but this is not
+[30:51.810 --> 31:04.470]  really interesting part let me cover it
+briefly for example it will be better to
+[31:04.470 --> 31:13.870]  grab my actual keyboard and I'm working
+with anyway let's use your profile picture
+[31:13.870 --> 31:20.310]  all right so there is a few ways of how we
+can name variables in different languages
+[31:20.310 --> 31:27.630]  there is a different conventions of naming
+in JavaScript we name a variable that
+[31:27.630 --> 31:38.470]  contains as a few a few a few words each
+word starts with the uppercase letter but
+[31:38.470 --> 31:52.570]  for example in in C maybe in C++ the
+convention of variables will be a little
+[31:52.570 --> 32:03.650]  bit different if I remember it correctly
+it will look like that so each each word
+[32:03.650 --> 32:16.110]  splits by I don't know how this simple
+calls this one calls camel case and this
+[32:16.110 --> 32:24.410]  well this one calls snake case it's again
+you know it's all about it's all about
+[32:24.410 --> 32:32.070]  syntax it's all about how we should write
+a code not actually what we have to write
+[32:32.070 --> 32:40.130]  not the actual part we have to talk about
+I think so there are types there are types
+[32:40.130 --> 32:40.810]  all right
+[32:44.210 --> 32:50.990]  we still talking in this section we will
+still talk about variables and what type
+[32:50.990 --> 32:58.750]  of data we can store in our variables and
+it's a good thing to have some strange
+[32:58.750 --> 33:06.370]  some simple data like string like numbers
+like true or false but it's also there is
+[33:06.370 --> 33:14.430]  a lot of cases I would say most of the
+cases where we have to use some structures
+[33:14.430 --> 33:16.950]  some more complicated
+[33:21.390 --> 33:37.360]  videos for example let's create something
+called catalog and how can I express it
+[33:37.360 --> 33:39.160]  it's not about English it's
+[33:52.470 --> 34:01.390]  okay there is a thing called Excel tables
+in Excel you have a you have a grid of
+[34:01.390 --> 34:11.070]  cells and usually when it comes to
+creating a table the structure of data
+[34:11.070 --> 34:20.250]  let's say a number a name of product and a
+price of this product so we have two
+[34:20.250 --> 34:28.910]  columns two different values the one which
+is name of the product represents its
+[34:28.910 --> 34:35.710]  failure and in JavaScript and in many
+languages there is a similar mechanism how
+[34:35.710 --> 34:45.430]  we can store such as such a structure for
+example let's say we have we have a
+[34:45.430 --> 34:57.990]  product shoes and this product cost cost
+us $20 and we have a product steppers
+[35:02.940 --> 35:16.800]  how much $8 yeah this way and this
+connection might be any length any length
+[35:16.800 --> 35:26.340]  and it will look like that and that that's
+it so if we if you want to get the value
+[35:26.340 --> 35:37.330]  of of shoes for example we will do
+something like if you want to lock the
+[35:37.330 --> 35:51.560]  value of shoes it will look like we want
+to put a second I'm looking for a word but
+[35:51.560 --> 35:58.520]  I of course we want to access the catalog
+variable and then in this in this catalog
+[35:58.520 --> 36:09.400]  you want to access shoes and this way we
+will log the the 12th failure which is
+[36:09.400 --> 36:18.240]  number and it's really useful to represent
+some complex datas moreover we can we can
+[36:18.240 --> 36:26.100]  put a different this thing called cost
+object by the way with this figure it
+[36:26.100 --> 36:35.040]  braces we can even put some things inside
+of this object for example a different
+[36:35.040 --> 36:43.240]  object and it will look like the same way
+so nest and let's put just the same values
+[36:43.240 --> 36:50.780]  to represent how it will look like and it
+is it may look recursive so an object
+[36:50.780 --> 36:59.940]  represents an object and another object
+and etc etc and this is the first type of
+[36:59.940 --> 37:10.180]  useful data programmers user uses rapidly
+during during the work process there is a
+[37:10.180 --> 37:18.240]  another type of useful useful structure
+called a race it's kind of similar to the
+[37:18.240 --> 37:24.700]  first one we just discovered let's
+allocate a new variable we will call the
+[37:24.700 --> 37:35.720]  train and in the first one we use figured
+braces in this in this case we will use
+[37:35.720 --> 37:46.960]  squared braces the main difference is that
+I have provided an example based on Excel
+[37:46.960 --> 37:58.580]  table which has two two columns let's say
+but here we have only one column what it
+[37:58.580 --> 38:05.080]  means is that rather than having two
+values we will have only one for example
+[38:05.080 --> 38:16.000]  one then the second one already two and
+etc the
+[38:19.380 --> 38:27.600]  main difference the main difference is
+that the meant the mental model for these
+[38:27.600 --> 38:36.600]  two for example for this one it's really
+useful when we know the name of something
+[38:36.600 --> 38:43.440]  and based on this name we wanna we want to
+know the value of this thing but this one
+[38:43.440 --> 38:49.660]  in order to use this one we we don't we
+cannot we cannot use it the same way
+[38:49.660 --> 38:59.660]  because of the language rules and the
+mental model let's it will be trained the
+[38:59.660 --> 39:09.640]  use case for this one is when we know an
+order of a thing for example we want to
+[39:09.640 --> 39:17.480]  grab the thing that is on the first place
+in programming it works in a little bit in
+[39:17.480 --> 39:23.280]  a weird way for example even that I wrote
+one it will not grab this one it will grab
+[39:23.280 --> 39:30.000]  this one because this one has a zero order
+but again it's about syntax it doesn't
+[39:30.000 --> 39:39.920]  matter that so yeah the main difference is
+that again just repeating that for objects
+[39:39.920 --> 39:46.900]  it's necessary to use when we when we know
+names and for arrays it's necessary to use
+[39:46.900 --> 39:58.930]  when we know an order otherwise it's
+basically the same thing and before I will
+[39:58.930 --> 40:07.430]  proceed let's let's make it more
+discussion like I know it's what might be
+[40:07.430 --> 40:19.350]  hard though to put some questions because
+I'm just describing the thing but for
+[40:19.350 --> 40:25.370]  example I don't know talking about
+business value this one might be useful
+[40:25.370 --> 40:35.630]  when yeah even with this list you see we
+have a structure of paragraphs or sections
+[40:35.630 --> 40:48.490]  and why is it so like it basically a list
+of strings and under the hood it is just
+[40:48.490 --> 41:00.250]  this thing representing one by one so can
+I can I jump to this yeah for example you
+[41:00.250 --> 41:11.810]  see no e should before us the sound before
+something for under the hood it looks like
+[41:11.810 --> 41:21.750]  that and we will in order to render it we
+will just add in some syntax syntax fiends
+[41:21.750 --> 41:31.810]  and then we got the list of the sentence
+and thank
+[41:35.100 --> 42:01.030]  you it's a little bit harder to provide
+you an example of let me scroll down to
+[42:01.030 --> 42:06.050]  our last last thing we were talking about
+it's a little bit harder to provide an
+[42:06.050 --> 42:15.150]  example of using this structure because
+for this one uses for rendering much
+[42:15.150 --> 42:22.170]  frequently than this one for for some
+reasons it doesn't matter this one uses
+[42:22.170 --> 42:30.490]  more frequently for some internal
+calculations of back-end responses oh I
+[42:30.490 --> 42:36.810]  know the case maybe maybe maybe maybe
+maybe give me a second oh all right okay
+[42:38.030 --> 42:45.250]  let me increase a little bit the scale so
+what is going on on the screen right now I
+[42:45.250 --> 42:53.730]  have opened the dev tools of of our
+current agenda this is what happens under
+[42:53.730 --> 43:00.750]  the hood and specifically this list of
+things I'm on the network tab which is
+[43:00.750 --> 43:10.410]  represents the responses from the back-end
+and reminding that we trying to understand
+[43:10.410 --> 43:16.470]  the use case for this structure the
+response from the back-end usually comes
+[43:16.470 --> 43:25.100]  in this shape usually comes in this shape
+this is array this array oh my god why why
+[43:25.100 --> 43:33.760]  is this a race log log log log okay give
+me give me a second maybe maybe this one
+[43:33.760 --> 43:35.040]  will be more useful for us
+[43:41.010 --> 43:46.150]  hello sir it's also in there
+[44:18.550 --> 44:37.070]  I am believing that what what you're
+saying it just it's not it's not it's
+[44:37.070 --> 44:47.150]  based on chromium but it's not Google
+Chrome browser yeah our agenda is very is
+[44:47.150 --> 44:56.510]  very large 2200 pages this is insanely
+huge agenda for some reason in this case
+[44:56.510 --> 45:03.310]  is the responses in array structure not an
+object and not the best example but
+[45:03.310 --> 45:09.530]  usually it comes in the in this way anyway
+anyway
+[45:28.570 --> 45:34.830]  the next the next
+[45:38.490 --> 45:47.110]  sections telling us about such things like
+a numbers booleans these things I think
+[45:47.110 --> 45:53.190]  it's not really necessary to talk about
+because again it's purely about syntax
+[45:53.190 --> 46:03.950]  what else can we talk about operation
+logic it's also these things that the
+[46:03.950 --> 46:11.030]  other operations are quite the same in not
+just every language but it's also the same
+[46:11.030 --> 46:26.370]  as a regular math so so yeah comparison
+this is also simple logical operations
+[46:26.370 --> 46:41.570]  logical operations all right I'm trying to
+connect a thing with a business case just
+[46:41.570 --> 46:46.010]  to be able to talk about in a bit more
+interactive frame
+[47:33.100 --> 47:41.360]  yeah this is a good case actually maybe I
+will provide a simple example we can use
+[47:41.360 --> 47:48.520]  both of these structures and these logical
+operators the the common case for
+[47:48.520 --> 47:56.540]  businesses is representing some data for a
+user for a client usually it's a list of
+[47:56.540 --> 48:02.900]  data maybe tables maybe maybe something
+similar like this list in our agenda and
+[48:02.900 --> 48:11.820]  let's assume we just receive received
+response from the back end with a raw data
+[48:11.820 --> 48:20.840]  we should represent on the page you know
+application for example let's let it be
+[48:20.840 --> 48:37.820]  and because this is a list of data it will
+be an array and in case of agenda this
+[48:37.820 --> 48:45.980]  means okay let's say they are simple this
+is just strings but if we will try to
+[48:45.980 --> 48:55.400]  represent some table it might be kind more
+complicated it might contain a separate
+[48:55.400 --> 49:03.680]  list of different values a list of
+different use and so in this case we will
+[49:03.680 --> 49:13.880]  not able to fit everything in one single
+type of type of value in this tree in this
+[49:13.880 --> 49:22.580]  case the objects will be really useful for
+us because rather than just putting and
+[49:22.580 --> 49:34.200]  get an object and provide for example ID
+which will be sounds true we can provide a
+[49:34.200 --> 49:42.340]  name let's let's let's have a better name
+of a field that's let's name it client
+[49:42.340 --> 49:55.290]  name it will also get the string value
+let's also provide a is active is this
+[49:55.290 --> 50:02.750]  client currently active in our system is
+active and and we actually done it's
+[50:02.750 --> 50:11.350]  enough for now and let's say the back-end
+gives us just a free items of this data
+[50:11.350 --> 50:19.810]  from the database for a little bit more
+convenience let's let's give them some
+[50:19.810 --> 50:23.790]  values client name A, B, C
+[50:38.190 --> 50:45.610]  yes absolutely this is what we're doing
+it's also possible to grab some mocked
+[50:45.610 --> 50:54.010]  datas from some services that is on the
+internet but in our case it will be more
+[50:54.010 --> 51:04.030]  representative for us and get a step back
+in case of is active we wanna this type of
+[51:04.030 --> 51:16.430]  data representing true or false so Boolean
+value yes of course and in this case it
+[51:16.430 --> 51:30.310]  will be let's say true here true here and
+false here all right and let's now since
+[51:30.310 --> 51:35.610]  we have hard-coded data we want to
+actually do something with this data in
+[51:35.610 --> 51:44.250]  order to show it in our application in the
+actual world it will require us to grab
+[51:44.250 --> 51:52.250]  some list of extra technologies of extra
+tools in order to turn it on and launch
+[51:52.250 --> 52:02.730]  the application but let's keep this thing
+simple and add some imagination we will we
+[52:02.730 --> 52:10.070]  want to access the response value and by
+response value I mean this array this list
+[52:10.070 --> 52:22.670]  of entities we want to iterate one by one
+of these entities in each language is
+[52:22.670 --> 52:30.630]  almost the same way in JavaScript that
+there is a using dot notation we can
+[52:30.630 --> 52:36.790]  access specific internal mechanism that is
+existing in every single array in every
+[52:36.790 --> 52:47.750]  single this thing and it allows us to move
+one element at a time and do something
+[52:47.750 --> 53:00.210]  with this element talking about syntax it
+will look something like that so
+[53:03.300 --> 53:14.590]  let's imagine let's imagine this thing
+that we just wrote representing some kind
+[53:14.590 --> 53:24.990]  of action that we will do in each
+operation and let's say we we want to make
+[53:24.990 --> 53:31.770]  sure that our client that we want to
+render only the clients that are active in
+[53:31.770 --> 53:40.070]  our system and just completely disable the
+inactive ones the simplest way of doing
+[53:40.070 --> 53:50.450]  that is to check is the active true in
+this in all of the languages there is a
+[53:50.450 --> 53:59.610]  thing called conditional structure and
+hold on a second how is it
+[54:46.100 --> 54:57.020]  yes you're describing it correctly and
+commonly commonly in header server tables
+[54:57.020 --> 55:02.460]  there is a bunch of filters for every
+column and yeah we can we can show
+[55:02.460 --> 55:14.360]  anything based on users filters so to
+check for example in this case we want to
+[55:14.360 --> 55:19.040]  show again we want to show only the active
+clients in order to check it we have to
+[55:19.040 --> 55:25.600]  use another syntax thing based on the
+rules of this of this language based based
+[55:25.600 --> 55:32.740]  on specification of JavaScript in order to
+have the condition we have to write if and
+[55:32.740 --> 55:40.700]  in round bracers we have to write the
+condition itself the simplest way is to
+[55:40.700 --> 55:51.520]  just write is active in this case the
+condition also have the body the block of
+[55:51.520 --> 55:57.200]  code that will be executed in case the
+condition will be passed the simplest way
+[55:57.200 --> 56:03.360]  is to write it like that but if we will
+write it more verbally it will look like
+[56:03.360 --> 56:14.660]  it will look like this so is active
+strictly equal to true value and this way
+[56:14.660 --> 56:28.100]  in this scenario we will return a return
+means in a iteration we will spit out
+[56:28.100 --> 56:32.080]  thing we working with in this case it's a
+user
+[56:36.910 --> 56:47.630]  yeah kinda kinda and here the scenario
+when this condition will not be passed
+[56:47.630 --> 56:55.310]  because when we hit this keyword the
+iteration will be ended the code will not
+[56:55.310 --> 57:01.010]  follow this block this block here if we
+will reach this one so if the condition
+[57:01.010 --> 57:07.890]  will not pass it will means that we got it
+we got an inactive client and in this case
+[57:07.890 --> 57:16.990]  we can simply write the similar thing
+return but it will return nothing so we
+[57:16.990 --> 57:26.730]  will not render anything and and I just
+finished yeah
+[57:40.960 --> 57:43.540]  oh my god
+[58:46.400 --> 58:52.860]  yeah it was like time traveling for me I
+[01:00:02.010 --> 01:00:11.370]  think that yeah we we have we have done a
+good amount of developing together and
+[01:00:11.370 --> 01:00:20.890]  maybe the good the good way of maybe the
+next good step will be not not full mock
+[01:00:20.890 --> 01:00:30.230]  interview but as you mentioned just some
+some some soft alternative of that we can
+[01:00:30.230 --> 01:00:40.650]  pick some little bit simple questions and
+talk about them maybe I will be even be
+[01:00:40.650 --> 01:00:47.270]  able to provide you some examples some
+topics yeah
+[01:01:41.720 --> 01:01:49.280]  I agree I agree maybe the the best one of
+the best approaches where we can get is to
+[01:01:49.280 --> 01:01:57.020]  get maybe one one techie question and
+there are the others about some behavioral
+[01:01:57.020 --> 01:02:05.980]  interview or some business values and high
+level of looking at etc I
+[01:02:35.000 --> 01:02:45.200]  really appreciate the amount of not not
+patience but the amount of focus during
+[01:02:45.200 --> 01:02:53.740]  during our my explanation and yeah I also
+enjoyed it actually I did it last time a
+[01:02:53.740 --> 01:03:00.240]  few years ago by teaching my friend and
+yeah all right I will train some take the
+[01:03:00.240 --> 01:03:05.980]  questions and do some other stuff and we
+will see you
+[01:03:29.930 --> 01:03:35.850]  okay we will speak on Tuesday have a great
+weekend as well John and yeah see you bye bye

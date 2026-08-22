@@ -1,0 +1,6 @@
+_models/
+_xxl_data/
+.cache
+ffmpeg.exe
+faster-whisper-xxl.exe
+One Click Transcribe.bat
