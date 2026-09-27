@@ -1,10 +1,12 @@
-param([Parameter(ValueFromRemainingArguments = $true)][string[]]$Targets)
+param(
+    [Parameter(ValueFromRemainingArguments = $true)][string[]]$Targets,
+    # Language: 'en' / 'ru', or '' = auto-detect. Lessons are in English.
+    [string]$Lang = 'en'
+)
 
 # ================= Settings =================
 # Model: tiny / base / small / medium / large-v2 / large-v3
 $Model   = 'large-v2'
-# Language: '' = auto-detect (best for mixed RU/EN). Or 'en' / 'ru'.
-$Lang    = ''
 # Output formats: txt srt json vtt tsv lrc
 $Formats = @('txt', 'srt', 'json')
 # ============================================
@@ -104,10 +106,11 @@ public static class ModernFolderPicker
 '@
 
 function Select-RecordingFolder {
-    # Reopen where you last picked, so repeat runs are one click
+    # Open in sessions\ next to this script; fall back to where you last picked
     $memo = Join-Path $env:LOCALAPPDATA 'fwxxl_last_folder.txt'
-    $start = ''
-    if (Test-Path $memo) {
+    $start = Join-Path $root 'sessions'
+    if (-not (Test-Path $start)) { $start = '' }
+    if (-not $start -and (Test-Path $memo)) {
         $saved = (Get-Content $memo -ErrorAction SilentlyContinue | Select-Object -First 1)
         if ($saved -and (Test-Path $saved)) { $start = $saved }
     }

@@ -1,0 +1,1755 @@
+1
+00:01:20,630 --> 00:01:21,910
+Oh, I see.
+
+2
+00:01:22,070 --> 00:01:22,750
+That's interesting.
+
+3
+00:01:22,970 --> 00:01:24,890
+Okay, so it's a voice chat.
+
+4
+00:01:25,870 --> 00:01:31,370
+And we have Craig joining us.
+
+5
+00:01:44,720 --> 00:01:45,020
+Yeah.
+
+6
+00:01:46,400 --> 00:01:47,340
+That's wonderful.
+
+7
+00:01:48,920 --> 00:01:50,780
+How are you?
+
+8
+00:01:50,900 --> 00:01:52,100
+How has your week been?
+
+9
+00:02:14,780 --> 00:02:15,380
+You
+
+10
+00:02:43,820 --> 00:02:48,740
+know, I actually had a really good week
+until this morning.
+
+11
+00:02:49,020 --> 00:02:56,220
+I had someone, someone smashed the back of
+my window on my car, like it's totally
+
+12
+00:02:56,220 --> 00:02:57,160
+smashed in.
+
+13
+00:02:58,020 --> 00:03:05,920
+It's, yeah, yeah, I'll send, see if I,
+yeah, we know who it is.
+
+14
+00:03:06,080 --> 00:03:09,880
+And so I had to make a police report and
+all that kind of fun stuff.
+
+15
+00:03:10,120 --> 00:03:15,700
+But yeah, it's unfortunate because I
+actually had a really good week.
+
+16
+00:03:15,820 --> 00:03:19,600
+We went to the movies on Wednesday and I
+saw Spider-Man.
+
+17
+00:03:20,120 --> 00:03:23,320
+The first time I saw a movie in a very
+long time.
+
+18
+00:03:23,400 --> 00:03:24,520
+It was really, really good.
+
+19
+00:03:26,860 --> 00:03:30,320
+I would strongly, have you seen Superman,
+the new one?
+
+20
+00:03:30,540 --> 00:03:31,680
+Or sorry, Spider-Man.
+
+21
+00:03:31,680 --> 00:03:32,360
+My goodness.
+
+22
+00:03:32,920 --> 00:03:33,320
+Spider-Man.
+
+23
+00:04:00,010 --> 00:04:01,470
+Oh, you did see it?
+
+24
+00:04:01,970 --> 00:04:02,810
+Oh, that's great.
+
+25
+00:04:03,110 --> 00:04:03,290
+Okay.
+
+26
+00:04:05,070 --> 00:04:13,630
+I really liked it because it wasn't about
+a superhero fighting another superhero
+
+27
+00:04:13,630 --> 00:04:15,330
+that the world is going to end.
+
+28
+00:04:15,330 --> 00:04:22,110
+It actually had like a plot and a story
+and struggles of people.
+
+29
+00:04:22,730 --> 00:04:28,150
+So it was a really nice change to like the
+DC comics or Marvel.
+
+30
+00:04:30,090 --> 00:04:33,850
+Normal, typical movies around,
+you know, all these superheroes get
+
+31
+00:04:33,850 --> 00:04:36,510
+together to, you know, save the world.
+
+32
+00:04:36,850 --> 00:04:38,290
+It was a lot different.
+
+33
+00:04:38,930 --> 00:04:39,890
+Very enjoyable.
+
+34
+00:04:40,090 --> 00:04:40,670
+Very good movie.
+
+35
+00:04:41,310 --> 00:04:41,930
+Very good movie.
+
+36
+00:04:42,710 --> 00:04:45,650
+So yeah, other than that, pretty.
+
+37
+00:04:48,650 --> 00:04:54,730
+Yeah, no, other than that, it was a good
+week and a busy week and a very productive
+
+38
+00:04:54,730 --> 00:04:55,030
+week.
+
+39
+00:04:55,110 --> 00:04:57,670
+So that's also a good thing.
+
+40
+00:04:58,470 --> 00:05:03,130
+Of course, better being busy than bored,
+as they said, or they say.
+
+41
+00:05:58,400 --> 00:06:03,340
+I feel that you have made quite a bit of
+progress over the last, when you took the
+
+42
+00:06:03,340 --> 00:06:10,080
+week off, and you've, you know,
+you've put in a lot of effort with talking
+
+43
+00:06:10,080 --> 00:06:11,740
+on the chat forums.
+
+44
+00:06:12,300 --> 00:06:18,920
+And I think if I'm, if I understand what
+we're going to do this afternoon,
+
+45
+00:06:18,940 --> 00:06:26,180
+it's more around you know, you will walk
+us through together the JavaScript,
+
+46
+00:06:26,620 --> 00:06:28,920
+it's to lead the conversation.
+
+47
+00:06:29,160 --> 00:06:34,080
+Again, it's about leading a conversation,
+leading the, almost calling it
+
+48
+00:06:34,080 --> 00:06:35,460
+facilitating a meeting.
+
+49
+00:06:36,380 --> 00:06:38,760
+We don't have to call it teaching about
+JavaScript.
+
+50
+00:06:39,180 --> 00:06:45,580
+But I think even if we spent 20 minutes or
+30 minutes going through the first five or
+
+51
+00:06:45,580 --> 00:06:53,280
+six sections where you drive, you can read
+right off the agenda, or you can,
+
+52
+00:06:53,540 --> 00:06:59,120
+you know, you can go off script,
+as it's called, and just start talking as
+
+53
+00:06:59,120 --> 00:07:04,500
+you as you would at work or with a
+colleague about JavaScript and what it is,
+
+54
+00:07:04,720 --> 00:07:13,380
+and just try to inform me as a colleague,
+maybe pretend that I'm, pretend that I'm,
+
+55
+00:07:14,340 --> 00:07:18,220
+you know, in business development or
+something, I have very little technical
+
+56
+00:07:18,220 --> 00:07:21,300
+background, or maybe I do have technical
+background, I just don't know much about
+
+57
+00:07:21,300 --> 00:07:21,680
+JavaScript.
+
+58
+00:07:22,600 --> 00:07:27,740
+That, I think will give us a good
+impression of your comfort level talking
+
+59
+00:07:27,740 --> 00:07:28,320
+technically.
+
+60
+00:07:29,240 --> 00:07:35,380
+And then yes, the interview questions,
+the going back to that format,
+
+61
+00:07:35,880 --> 00:07:42,600
+I think that we start small, and in that
+format, we'll start off with the two
+
+62
+00:07:42,600 --> 00:07:47,220
+important questions about, tell us about
+yourself, a little bit about yourself and
+
+63
+00:07:47,220 --> 00:07:50,600
+your background, and why are you applying
+for the role?
+
+64
+00:07:51,100 --> 00:07:58,800
+And then we'll take very small or medium
+sized steps on some of the expected
+
+65
+00:07:58,800 --> 00:08:00,820
+behavioral and technical questions.
+
+66
+00:08:01,840 --> 00:08:08,080
+And we can pick, what we could do is pick
+a job description that you would typically
+
+67
+00:08:08,080 --> 00:08:15,400
+consider applying for, maybe in Spain,
+or Italy, or, you know, wherever it is.
+
+68
+00:08:15,820 --> 00:08:19,500
+And then we work towards that job
+description, and that job role.
+
+69
+00:08:25,660 --> 00:08:26,460
+Yep.
+
+70
+00:08:45,010 --> 00:08:45,810
+Okay.
+
+71
+00:08:49,140 --> 00:08:49,580
+Okay.
+
+72
+00:09:10,690 --> 00:09:11,490
+Yep.
+
+73
+00:09:31,290 --> 00:09:32,090
+Yes.
+
+74
+00:09:32,090 --> 00:09:32,730
+Yes.
+
+75
+00:09:33,030 --> 00:09:37,830
+However, I'll say, I'll say that with the
+technology that you're using, so the
+
+76
+00:09:37,830 --> 00:09:42,090
+technical questions that you practice on,
+I can listen to your responses.
+
+77
+00:09:42,850 --> 00:09:50,990
+But I, in addition, create or select,
+you know, two or three major work
+
+78
+00:09:50,990 --> 00:09:53,630
+experiences on the behavioral side,
+right?
+
+79
+00:09:53,710 --> 00:09:58,610
+So your most challenging project,
+your most technically complicated project,
+
+80
+00:09:59,210 --> 00:10:08,050
+a project that you're most proud of or
+successful, and all, and also the project
+
+81
+00:10:08,050 --> 00:10:08,850
+that failed.
+
+82
+00:10:09,730 --> 00:10:14,190
+It's becoming much more popular now,
+I've been reading in the changes to the
+
+83
+00:10:14,190 --> 00:10:16,810
+industry trend, especially around tech.
+
+84
+00:10:18,130 --> 00:10:22,550
+It, that question actually comes up about
+60% of the time now in interviews.
+
+85
+00:10:23,230 --> 00:10:28,910
+Tell me about an initiative, a project,
+a major activity that you were leading or
+
+86
+00:10:28,910 --> 00:10:30,510
+were part of that failed?
+
+87
+00:10:30,910 --> 00:10:31,950
+And why did it fail?
+
+88
+00:10:34,030 --> 00:10:38,570
+So not always, not always the happy path
+question.
+
+89
+00:10:39,110 --> 00:10:40,790
+So yeah, I like your approach.
+
+90
+00:10:40,890 --> 00:10:45,330
+That's great that you found a website,
+you can practice the technical questions
+
+91
+00:10:45,330 --> 00:10:47,370
+around front end technology.
+
+92
+00:10:48,030 --> 00:10:51,070
+And then you and I, I can listen to your
+answers as well.
+
+93
+00:10:51,530 --> 00:10:58,070
+And then equally, we can focus more on the
+behavioral and budget-based or
+
+94
+00:10:58,070 --> 00:11:03,930
+experience-based questions that will also
+come that may not have as much technical
+
+95
+00:11:03,930 --> 00:11:05,950
+in-depth responses.
+
+96
+00:11:10,630 --> 00:11:11,970
+Yeah, good.
+
+97
+00:11:14,270 --> 00:11:15,110
+Oh, I like these.
+
+98
+00:11:15,150 --> 00:11:16,530
+I like these emojis.
+
+99
+00:11:16,930 --> 00:11:17,750
+It's awesome here.
+
+100
+00:11:17,750 --> 00:11:19,090
+Guys freaking me out.
+
+101
+00:11:33,920 --> 00:11:39,600
+Did you want me to share screen and then
+go through the agenda or where you will
+
+102
+00:11:39,600 --> 00:11:41,540
+drive the sections?
+
+103
+00:11:41,840 --> 00:11:43,200
+Or did you want to share?
+
+104
+00:11:54,710 --> 00:11:56,530
+Oh, no, you haven't.
+
+105
+00:12:00,510 --> 00:12:00,950
+Live?
+
+106
+00:12:03,630 --> 00:12:04,470
+Oh, okay.
+
+107
+00:12:04,650 --> 00:12:04,810
+Okay.
+
+108
+00:12:05,050 --> 00:12:05,690
+Yeah, I see.
+
+109
+00:12:06,270 --> 00:12:06,610
+I see.
+
+110
+00:12:07,570 --> 00:12:09,710
+Well, okay.
+
+111
+00:12:20,900 --> 00:12:21,960
+No, it's in Russian.
+
+112
+00:12:22,400 --> 00:12:23,220
+I don't know what it is.
+
+113
+00:12:26,320 --> 00:12:27,040
+That's okay.
+
+114
+00:12:53,760 --> 00:12:54,300
+Good.
+
+115
+00:12:54,300 --> 00:12:54,840
+Yeah.
+
+116
+00:12:57,600 --> 00:13:01,420
+Do you want me to ask questions right
+away?
+
+117
+00:13:01,820 --> 00:13:05,360
+Or do you want me to wait until you're
+sort of done the topic?
+
+118
+00:13:14,110 --> 00:13:14,650
+Okay.
+
+119
+00:13:16,910 --> 00:13:17,990
+I like the dark.
+
+120
+00:13:18,170 --> 00:13:19,990
+I like the dark mode, by the way.
+
+121
+00:13:20,170 --> 00:13:21,390
+I wish I could do dark mode.
+
+122
+00:16:05,920 --> 00:16:07,820
+Yeah, I've used both.
+
+123
+00:16:08,040 --> 00:16:08,500
+Yes.
+
+124
+00:16:08,880 --> 00:16:14,840
+But maybe it would be beneficial if you
+actually talked about what is the purpose
+
+125
+00:16:14,840 --> 00:16:17,380
+of building a local project?
+
+126
+00:16:17,640 --> 00:16:20,980
+So, like, what is a project in your in
+your view?
+
+127
+00:16:21,320 --> 00:16:25,280
+Why are we building a project within,
+like, a JavaScript?
+
+128
+00:16:42,230 --> 00:16:42,910
+Yeah.
+
+129
+00:17:13,520 --> 00:17:19,980
+But is a project a place that you build an
+application in?
+
+130
+00:17:20,560 --> 00:17:23,560
+Like, why are we using the word project?
+
+131
+00:17:23,800 --> 00:17:28,980
+Like, is it just a way for me to
+categorize?
+
+132
+00:17:29,080 --> 00:17:34,220
+Like, is it a way for me to
+compartmentalize or separate the different
+
+133
+00:17:34,220 --> 00:17:35,980
+applications that I'm going to be
+building?
+
+134
+00:17:47,030 --> 00:17:47,430
+Compartmentalize.
+
+135
+00:17:48,050 --> 00:17:48,290
+Yeah.
+
+136
+00:17:48,490 --> 00:17:51,150
+So, or to keep it separate.
+
+137
+00:17:51,470 --> 00:17:52,530
+To compartmentalize.
+
+138
+00:17:52,630 --> 00:17:53,550
+So, to keep separate.
+
+139
+00:17:53,550 --> 00:17:58,410
+It means, like, if we're going to build,
+if we're going to practice programming,
+
+140
+00:17:59,730 --> 00:18:05,150
+is one project practice programming and
+then maybe another project might be
+
+141
+00:18:05,150 --> 00:18:07,710
+building Tetris or a game?
+
+142
+00:18:08,370 --> 00:18:11,070
+Like, is that kind of what the meaning is?
+
+143
+00:18:11,130 --> 00:18:16,790
+You kind of, I can separate the major
+activities as to what I'm doing from a
+
+144
+00:18:16,790 --> 00:18:18,770
+programming perspective?
+
+145
+00:18:22,330 --> 00:18:23,710
+You know what I mean?
+
+146
+00:18:24,410 --> 00:18:25,170
+You know what I mean?
+
+147
+00:18:25,370 --> 00:18:25,370
+Like,
+
+148
+00:18:33,140 --> 00:18:37,240
+so, so maybe, maybe let me say it in a
+different way.
+
+149
+00:18:38,880 --> 00:18:40,620
+Why would I create a new project?
+
+150
+00:18:40,940 --> 00:18:42,820
+What's the purpose of me creating a
+project?
+
+151
+00:18:42,940 --> 00:18:44,640
+Is it simply to start?
+
+152
+00:18:45,000 --> 00:18:47,020
+Or is it simply for me to practice?
+
+153
+00:18:47,340 --> 00:18:53,480
+Or is it, let's say I wanted to,
+let's say I wanted to build a very simple
+
+154
+00:18:53,480 --> 00:18:59,280
+website and then on another thing I wanted
+to build Tetris.
+
+155
+00:18:59,780 --> 00:19:01,780
+So, would I have two different projects?
+
+156
+00:19:02,020 --> 00:19:04,980
+One for building a website and one for
+building Tetris?
+
+157
+00:19:05,320 --> 00:19:09,580
+Is that the purpose of project to,
+you know, have different major activities
+
+158
+00:19:09,580 --> 00:19:10,740
+in different areas?
+
+159
+00:19:28,150 --> 00:19:29,150
+Yeah.
+
+160
+00:19:37,460 --> 00:19:37,960
+Sure.
+
+161
+00:19:44,820 --> 00:19:45,820
+Yes.
+
+162
+00:19:55,880 --> 00:19:56,660
+Okay.
+
+163
+00:20:08,390 --> 00:20:09,270
+Okay.
+
+164
+00:20:13,090 --> 00:20:22,530
+Would I, okay, would I, would it,
+would I build two websites or two,
+
+165
+00:20:22,610 --> 00:20:25,670
+yeah, two different kinds of websites
+within the same project?
+
+166
+00:20:25,870 --> 00:20:27,430
+Or would I have two different projects?
+
+167
+00:20:28,070 --> 00:20:33,190
+Would I create a new project for one
+website for about business and one website
+
+168
+00:20:33,190 --> 00:20:36,130
+about, you know, information about
+something?
+
+169
+00:20:44,610 --> 00:20:45,390
+Okay.
+
+170
+00:20:46,410 --> 00:20:46,410
+Okay.
+
+171
+00:20:46,530 --> 00:20:46,830
+Okay.
+
+172
+00:20:47,090 --> 00:20:47,330
+Yeah.
+
+173
+00:21:08,590 --> 00:21:09,370
+Okay.
+
+174
+00:21:20,390 --> 00:21:21,170
+Okay.
+
+175
+00:21:38,200 --> 00:21:39,700
+Thank you for explaining.
+
+176
+00:21:39,920 --> 00:21:40,540
+Now I understand.
+
+177
+00:22:06,590 --> 00:22:07,070
+Okay.
+
+178
+00:22:07,070 --> 00:22:11,370
+And I can watch you, I can watch you do
+some of the magic as well.
+
+179
+00:22:12,030 --> 00:22:12,030
+Totally.
+
+180
+00:22:12,910 --> 00:22:18,610
+I got visual representation, sort of set
+up of JavaScript and what you're doing
+
+181
+00:22:18,610 --> 00:22:22,030
+and, you know, why we're doing it in that
+way.
+
+182
+00:22:22,130 --> 00:22:26,550
+And so it works, it works just as well as
+that if I was doing it.
+
+183
+00:22:44,760 --> 00:22:45,260
+Simple.
+
+184
+00:22:53,260 --> 00:22:59,900
+Presenting image, random images make me
+happy each morning.
+
+185
+00:23:00,620 --> 00:23:01,340
+Random images.
+
+186
+00:24:14,700 --> 00:24:16,100
+Yeah.
+
+187
+00:24:23,160 --> 00:24:23,860
+Yeah.
+
+188
+00:24:37,470 --> 00:24:38,830
+Yeah.
+
+189
+00:25:17,880 --> 00:25:23,780
+The important thing is to describe what
+the index.html does.
+
+190
+00:25:24,000 --> 00:25:28,800
+So it's where you can set the title,
+you can set the font size, you can do
+
+191
+00:25:28,800 --> 00:25:36,360
+readings and all sorts of things in terms
+of format of the text.
+
+192
+00:25:36,860 --> 00:25:39,620
+I guess that's really what I mean here.
+
+193
+00:25:43,680 --> 00:25:44,420
+Yeah.
+
+194
+00:26:15,790 --> 00:26:17,190
+Yeah.
+
+195
+00:28:03,470 --> 00:28:07,450
+And as I understand it in the world of
+programming, correct me if I'm wrong,
+
+196
+00:28:07,570 --> 00:28:14,050
+but a variable is typically a way to
+either use local or global memory
+
+197
+00:28:14,050 --> 00:28:15,550
+allocation.
+
+198
+00:28:59,900 --> 00:29:00,580
+Sure.
+
+199
+00:29:58,820 --> 00:30:02,140
+I mean, but that by definition,
+that's kind of the definition,
+
+200
+00:30:02,320 --> 00:30:02,400
+right?
+
+201
+00:30:02,480 --> 00:30:07,340
+You would use a local variable,
+let's say in a procedure, but versus like
+
+202
+00:30:07,340 --> 00:30:14,860
+how you described it, you can have a
+global variable, which you can call or use
+
+203
+00:30:14,860 --> 00:30:23,380
+later on, wherever you want to call it
+within the program, whether it's a string,
+
+204
+00:30:23,500 --> 00:30:30,800
+whether it's a string or some other
+varchar or some other element.
+
+205
+00:30:32,130 --> 00:30:32,660
+That's okay.
+
+206
+00:30:32,920 --> 00:30:33,580
+Let's continue.
+
+207
+00:32:18,860 --> 00:32:20,260
+Okay.
+
+208
+00:32:25,950 --> 00:32:27,350
+Sure.
+
+209
+00:32:51,260 --> 00:32:52,660
+Okay.
+
+210
+00:33:20,760 --> 00:33:22,160
+Sure.
+
+211
+00:33:26,580 --> 00:33:27,980
+Okay.
+
+212
+00:33:36,480 --> 00:33:37,880
+Sure.
+
+213
+00:33:37,880 --> 00:33:39,540
+Sure.
+
+214
+00:33:56,760 --> 00:33:57,540
+Okay.
+
+215
+00:33:57,540 --> 00:33:58,140
+Sure.
+
+216
+00:34:03,740 --> 00:34:04,520
+Okay.
+
+217
+00:34:18,100 --> 00:34:19,500
+Sure.
+
+218
+00:34:22,600 --> 00:34:24,000
+Okay.
+
+219
+00:34:57,170 --> 00:34:58,570
+Slippers.
+
+220
+00:35:00,110 --> 00:35:01,510
+Yeah.
+
+221
+00:35:02,910 --> 00:35:03,270
+$8.
+
+222
+00:35:06,290 --> 00:35:07,690
+$8.
+
+223
+00:35:08,450 --> 00:35:08,530
+Yeah.
+
+224
+00:36:01,140 --> 00:36:01,180
+Okay.
+
+225
+00:36:01,200 --> 00:36:01,220
+Okay.
+
+226
+00:36:01,240 --> 00:36:01,260
+Okay.
+
+227
+00:36:23,190 --> 00:36:24,590
+Okay.
+
+228
+00:36:51,100 --> 00:36:52,500
+Okay.
+
+229
+00:37:15,600 --> 00:37:17,000
+Okay.
+
+230
+00:37:17,000 --> 00:37:17,320
+Okay.
+
+231
+00:37:25,900 --> 00:37:27,300
+Okay.
+
+232
+00:37:39,320 --> 00:37:40,720
+Okay.
+
+233
+00:38:03,480 --> 00:38:04,880
+Okay.
+
+234
+00:38:14,850 --> 00:38:16,250
+Good.
+
+235
+00:39:26,140 --> 00:39:27,540
+Okay.
+
+236
+00:39:29,540 --> 00:39:30,340
+Great.
+
+237
+00:40:05,860 --> 00:40:07,260
+Yeah.
+
+238
+00:40:07,680 --> 00:40:08,820
+Okay.
+
+239
+00:40:12,390 --> 00:40:14,110
+Yeah, no, of course, of course.
+
+240
+00:40:32,020 --> 00:40:32,380
+Yes.
+
+241
+00:41:04,930 --> 00:41:05,450
+Before.
+
+242
+00:41:06,150 --> 00:41:06,390
+Yeah.
+
+243
+00:41:13,020 --> 00:41:13,540
+Yeah.
+
+244
+00:41:13,980 --> 00:41:14,280
+Okay.
+
+245
+00:41:28,070 --> 00:41:28,590
+Good.
+
+246
+00:41:29,350 --> 00:41:29,590
+Okay.
+
+247
+00:41:29,730 --> 00:41:31,210
+So you explained that well.
+
+248
+00:41:31,390 --> 00:41:32,550
+You explained that very well.
+
+249
+00:41:35,110 --> 00:41:39,690
+So that's, yeah, that's, it's the purpose
+of being able to explain something and
+
+250
+00:41:39,690 --> 00:41:41,630
+have direct contact.
+
+251
+00:41:41,790 --> 00:41:42,870
+So that's, that's good.
+
+252
+00:41:44,030 --> 00:41:48,570
+Explaining the difference and you provided
+an example from an existing document that
+
+253
+00:41:48,570 --> 00:41:50,730
+you have and the structure that's
+associated to it.
+
+254
+00:41:51,090 --> 00:41:52,030
+So very good.
+
+255
+00:42:04,900 --> 00:42:05,420
+Sure.
+
+256
+00:42:30,220 --> 00:42:30,960
+Yeah.
+
+257
+00:43:46,250 --> 00:43:46,750
+So it would be.
+
+258
+00:43:47,050 --> 00:43:47,410
+Yeah.
+
+259
+00:43:47,610 --> 00:43:55,530
+So do not forget that right now,
+your agenda running on a Chrome website
+
+260
+00:43:55,530 --> 00:44:00,150
+right now is utilizing 872 megabytes of
+memory.
+
+261
+00:44:07,920 --> 00:44:12,800
+So if you hover over, if you actually
+hover over the tab, the tab for this
+
+262
+00:44:12,800 --> 00:44:21,740
+specific agenda document is 872 megabytes
+of physical memory on the computing
+
+263
+00:44:21,740 --> 00:44:22,300
+device.
+
+264
+00:44:39,550 --> 00:44:39,670
+Yeah.
+
+265
+00:44:40,910 --> 00:44:41,190
+Yeah.
+
+266
+00:45:11,760 --> 00:45:12,280
+No.
+
+267
+00:45:12,340 --> 00:45:14,500
+So you've described the variable types,
+which is grid.
+
+268
+00:45:14,980 --> 00:45:19,680
+There's you're showing true examples,
+true real world examples, especially of
+
+269
+00:45:19,680 --> 00:45:20,520
+our agenda working.
+
+270
+00:45:20,520 --> 00:45:21,560
+So it's, it's good.
+
+271
+00:45:21,820 --> 00:45:24,000
+We've gone through an array and then the
+examples.
+
+272
+00:45:24,480 --> 00:45:27,280
+Now you're going to go through some,
+you know, there's Booleans like true or
+
+273
+00:45:27,280 --> 00:45:28,420
+false, zero or one.
+
+274
+00:46:50,980 --> 00:46:55,840
+Well, let's say if you're comparing,
+let's say that if you're comparing sales
+
+275
+00:46:55,840 --> 00:47:04,460
+from a table between John and Andrew and
+on one, one column, there's something like
+
+276
+00:47:04,460 --> 00:47:09,840
+you set up the values before you
+categorize them as to like category or
+
+277
+00:47:09,840 --> 00:47:12,380
+products being shoes and slippers.
+
+278
+00:47:12,800 --> 00:47:18,600
+Instead, you could do something like sales
+from January, February, March,
+
+279
+00:47:18,740 --> 00:47:22,020
+April, and then you do that for yourself.
+
+280
+00:47:22,160 --> 00:47:30,280
+And then you can use these comparison
+calculations to calculate which is larger,
+
+281
+00:47:30,500 --> 00:47:31,040
+for example.
+
+282
+00:48:44,390 --> 00:48:45,030
+Sure.
+
+283
+00:48:45,030 --> 00:48:45,850
+So
+
+284
+00:50:22,060 --> 00:50:28,060
+what you're doing here is you're actually
+what's called in my, as I understand it,
+
+285
+00:50:28,160 --> 00:50:34,560
+you're hard coding the value rather than
+pulling the information from the database
+
+286
+00:50:34,560 --> 00:50:37,060
+that would be presented in this structure.
+
+287
+00:50:37,820 --> 00:50:38,100
+Correct?
+
+288
+00:51:08,090 --> 00:51:08,710
+Boolean.
+
+289
+00:51:59,450 --> 00:51:59,730
+Sure.
+
+290
+00:51:59,730 --> 00:51:59,770
+Sure.
+
+291
+00:53:58,960 --> 00:54:04,140
+Well, you're almost referring to filtering
+out of a set of lists or conditions,
+
+292
+00:54:04,300 --> 00:54:04,480
+right?
+
+293
+00:54:04,560 --> 00:54:12,160
+So a business case could be that you
+present a dropdown in a box and,
+
+294
+00:54:12,420 --> 00:54:18,220
+you know, you have the text on a web page
+of these three elements, the ID,
+
+295
+00:54:18,560 --> 00:54:20,760
+the client name, and are they active or
+not?
+
+296
+00:54:20,760 --> 00:54:25,820
+And you can select from, let's say,
+a radio button or a dropdown list,
+
+297
+00:54:26,500 --> 00:54:30,920
+you know, you can present it in whatever
+format you want, and you can do something
+
+298
+00:54:30,920 --> 00:54:31,800
+like filtering.
+
+299
+00:54:32,180 --> 00:54:34,740
+You could filter on active versus
+inactive.
+
+300
+00:54:35,000 --> 00:54:40,120
+Perhaps you may want a list of all of your
+inactive clients for whatever reason.
+
+301
+00:54:40,580 --> 00:54:46,420
+So this is what you can do with these
+kinds of elements, if I'm describing that
+
+302
+00:54:46,420 --> 00:54:46,860
+correctly.
+
+303
+00:54:53,110 --> 00:54:53,670
+Good.
+
+304
+00:54:59,840 --> 00:55:00,100
+Mm-hmm.
+
+305
+00:55:39,020 --> 00:55:39,660
+Yes.
+
+306
+00:56:13,120 --> 00:56:13,720
+Mm-hmm.
+
+307
+00:56:31,290 --> 00:56:31,930
+Yeah.
+
+308
+00:56:32,890 --> 00:56:33,530
+Yeah.
+
+309
+00:56:33,950 --> 00:56:34,970
+And the display.
+
+310
+00:56:35,310 --> 00:56:38,190
+So it'll return the value and display it
+how you would like.
+
+311
+00:56:38,970 --> 00:56:39,270
+Yeah.
+
+312
+00:56:54,860 --> 00:56:55,380
+Mm-hmm.
+
+313
+00:57:16,830 --> 00:57:17,150
+Right.
+
+314
+00:57:18,970 --> 00:57:19,610
+Right.
+
+315
+00:57:20,970 --> 00:57:24,590
+So isn't it incre—isn't it—oh,
+sorry, keep going.
+
+316
+00:57:26,610 --> 00:57:27,250
+Yeah.
+
+317
+00:57:27,250 --> 00:57:31,750
+I was just going to say, so it's
+incredible the passage of time,
+
+318
+00:57:31,830 --> 00:57:33,950
+you know, when you're teaching something
+from the beginning.
+
+319
+00:57:35,310 --> 00:57:41,890
+And it's, like, you've led the
+conversation for probably 40 or 45
+
+320
+00:57:41,890 --> 00:57:42,390
+minutes.
+
+321
+00:57:43,270 --> 00:57:47,390
+And, you know, we've gone through—yeah,
+it's incredible.
+
+322
+00:57:47,570 --> 00:57:51,270
+But look, look how much you've talked and
+led and driven the conversation.
+
+323
+00:57:51,790 --> 00:57:55,850
+And you have not struggled, and you've
+explained it very, very well.
+
+324
+00:57:55,850 --> 00:57:59,830
+In simple terms, in business terms,
+and you've interacted with me a little
+
+325
+00:57:59,830 --> 00:58:00,150
+bit.
+
+326
+00:58:00,450 --> 00:58:05,410
+Not a lot, but at various stages,
+there's been, you know, some good
+
+327
+00:58:05,410 --> 00:58:05,910
+interaction.
+
+328
+00:58:06,910 --> 00:58:11,430
+So, you know, based on my feedback on how
+this is going, I mean, you've structured
+
+329
+00:58:11,430 --> 00:58:15,350
+this and explained it quite well,
+the beginnings of what we're doing and
+
+330
+00:58:15,350 --> 00:58:17,450
+provided a real-world example.
+
+331
+00:58:23,990 --> 00:58:29,210
+So it's—I'll just say, you know,
+well done in terms of describing various
+
+332
+00:58:29,210 --> 00:58:33,410
+things to consider when you're setting up
+your environment and some of the things
+
+333
+00:58:33,410 --> 00:58:34,910
+we're looking to do.
+
+334
+00:58:35,110 --> 00:58:40,070
+And here's a data set, some elements,
+and what we can do with these elements.
+
+335
+00:58:40,670 --> 00:58:45,590
+So it's—how have you—are you surprised 47
+minutes passed by like that?
+
+336
+00:58:50,510 --> 00:58:51,030
+Yeah.
+
+337
+00:58:51,930 --> 00:58:52,070
+Yeah.
+
+338
+00:58:52,870 --> 00:58:54,690
+So it's good.
+
+339
+00:58:54,850 --> 00:58:55,330
+It's good.
+
+340
+00:58:55,450 --> 00:58:55,850
+It's good.
+
+341
+00:58:56,030 --> 00:58:59,690
+I mean, and you can see the time it's
+required to learn something, right?
+
+342
+00:58:59,890 --> 00:59:03,910
+Imagine teaching JavaScript from someone
+who knows nothing about tech, right?
+
+343
+00:59:04,230 --> 00:59:07,110
+Setting up the environment, explaining
+F12.
+
+344
+00:59:08,010 --> 00:59:14,430
+Like, we jumped—how many steps did we jump
+ahead, you know, setting up the overview,
+
+345
+00:59:14,550 --> 00:59:14,750
+right?
+
+346
+00:59:14,870 --> 00:59:17,210
+Like, it's quite amazing.
+
+347
+00:59:17,470 --> 00:59:18,290
+It's quite amazing.
+
+348
+00:59:18,850 --> 00:59:23,370
+So, you know, I think you've technically
+described things at the proper level as
+
+349
+00:59:23,370 --> 00:59:23,590
+well.
+
+350
+00:59:24,230 --> 00:59:32,970
+So I think, you know, I think for next
+session, we can probably either continue
+
+351
+00:59:32,970 --> 00:59:37,950
+this a tiny bit, but I think we could
+transition then into a little bit of a
+
+352
+00:59:37,950 --> 00:59:43,790
+half lesson and then a half dry run on
+some interview questions.
+
+353
+00:59:43,890 --> 00:59:47,130
+But I don't know what you're thinking
+about next after this, because I think
+
+354
+00:59:47,130 --> 00:59:48,730
+you're in a good spot right now.
+
+355
+00:59:48,730 --> 00:59:57,670
+You were describing it quite well
+technically and showing real examples of
+
+356
+00:59:57,670 --> 00:59:58,990
+setting it up.
+
+357
+01:00:00,350 --> 01:00:01,230
+What do you think?
+
+358
+01:00:22,220 --> 01:00:23,100
+Yeah.
+
+359
+01:00:34,810 --> 01:00:35,690
+Yeah.
+
+360
+01:00:42,810 --> 01:00:43,690
+Sure.
+
+361
+01:00:46,130 --> 01:00:53,630
+I'm thinking about questions like,
+tell me the tools that you're most
+
+362
+01:00:53,630 --> 01:00:59,530
+familiar with and, you know, what would
+you describe them to be and what is your
+
+363
+01:00:59,530 --> 01:01:01,190
+level of expertise, right?
+
+364
+01:01:01,230 --> 01:01:05,830
+So you would say, you know, CRM,
+ERP and, you know, the things that you
+
+365
+01:01:05,830 --> 01:01:06,350
+maybe do.
+
+366
+01:01:06,770 --> 01:01:08,170
+So a product list.
+
+367
+01:01:08,370 --> 01:01:09,930
+We start, like you said, baby steps.
+
+368
+01:01:10,270 --> 01:01:17,630
+The major areas in technology that you're
+quite technically familiar with at the
+
+369
+01:01:17,630 --> 01:01:20,310
+expert level, at the advanced level,
+whatever it might be.
+
+370
+01:01:20,310 --> 01:01:26,050
+Yeah, I would love it if you shared some
+questions and likewise, I would do the
+
+371
+01:01:26,050 --> 01:01:26,290
+same.
+
+372
+01:01:27,110 --> 01:01:31,350
+And if you have time to prepare a little
+bit, you don't have to answer them
+
+373
+01:01:31,350 --> 01:01:31,790
+perfectly.
+
+374
+01:01:31,990 --> 01:01:33,910
+It's more about trying and see how we do.
+
+375
+01:01:35,650 --> 01:01:41,430
+You know, and like you said, we'll keep
+the simple approach first and go from
+
+376
+01:01:41,430 --> 01:01:41,670
+there.
+
+377
+01:02:06,100 --> 01:02:06,540
+OK.
+
+378
+01:02:06,540 --> 01:02:06,980
+Good.
+
+379
+01:02:07,120 --> 01:02:07,720
+Well, well done.
+
+380
+01:02:07,820 --> 01:02:08,560
+Thank you for leading.
+
+381
+01:02:08,880 --> 01:02:10,680
+As you've seen, it goes quick.
+
+382
+01:02:10,680 --> 01:02:14,100
+And not only that, you led very well.
+
+383
+01:02:14,220 --> 01:02:21,140
+I'll be interested to see the script as
+well and summarize it actually at the next
+
+384
+01:02:21,140 --> 01:02:21,760
+lesson, too.
+
+385
+01:02:22,040 --> 01:02:26,180
+That would be interesting, too,
+to analyze a bit.
+
+386
+01:02:27,040 --> 01:02:28,160
+So, yeah.
+
+387
+01:02:28,640 --> 01:02:32,140
+Thank you very much for, as we call it in
+English, driving.
+
+388
+01:02:33,360 --> 01:02:34,180
+You did well.
+
+389
+01:02:50,950 --> 01:02:51,350
+Good.
+
+390
+01:03:01,860 --> 01:03:02,380
+Good.
+
+391
+01:03:04,580 --> 01:03:04,980
+Sure.
+
+392
+01:03:06,140 --> 01:03:14,940
+Yeah, and if you could share the script,
+if you get an output of the text,
+
+393
+01:03:15,080 --> 01:03:18,920
+that would be great to throw in here at
+some point whenever you have time.
+
+394
+01:03:19,560 --> 01:03:21,840
+We can do it at the next lesson or before.
+
+395
+01:03:22,020 --> 01:03:27,980
+But, yeah, have a wonderful weekend ahead
+and, you know, enjoy whatever you're going
+
+396
+01:03:27,980 --> 01:03:28,260
+to do.
+
+397
+01:03:28,340 --> 01:03:29,820
+And we will speak on Tuesday.
+
+398
+01:03:35,940 --> 01:03:36,460
+Thank you, sir.
+
+399
+01:03:36,580 --> 01:03:36,980
+Thanks, Andrew.
+
+400
+01:03:37,060 --> 01:03:37,260
+Bye-bye.
+

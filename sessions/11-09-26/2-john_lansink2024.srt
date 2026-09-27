@@ -1,0 +1,2412 @@
+1
+00:03:00,560 --> 00:03:01,740
+Well, good afternoon.
+
+2
+00:03:04,900 --> 00:03:06,120
+Can you hear me okay?
+
+3
+00:03:11,700 --> 00:03:12,560
+Well, that's good.
+
+4
+00:03:17,720 --> 00:03:20,200
+How are things with you today and this
+week?
+
+5
+00:03:36,420 --> 00:03:36,920
+Oh, wow.
+
+6
+00:03:54,200 --> 00:03:54,900
+It's okay.
+
+7
+00:03:55,100 --> 00:03:56,840
+I mean, you don't always have to be
+prepared.
+
+8
+00:03:57,020 --> 00:03:58,520
+Sometimes we're not prepared for things.
+
+9
+00:03:58,640 --> 00:04:03,160
+And I mean, we'll just continue onwards.
+
+10
+00:04:03,480 --> 00:04:08,060
+I did update the agenda with just some of
+the answers we had put together and then
+
+11
+00:04:08,060 --> 00:04:12,080
+ultimately the questions that we haven't
+gotten to yet.
+
+12
+00:04:12,500 --> 00:04:14,240
+So I think it'll be okay.
+
+13
+00:04:15,380 --> 00:04:20,140
+Nothing too taxing, let's say.
+
+14
+00:04:21,100 --> 00:04:23,280
+But yeah, that's a lot of lines of code,
+for sure.
+
+15
+00:04:36,990 --> 00:04:38,570
+I've actually been sick.
+
+16
+00:04:39,130 --> 00:04:43,090
+I had a pretty bad cold on Tuesday,
+Wednesday, Thursday.
+
+17
+00:04:43,090 --> 00:04:47,730
+And finally, my fever broke yesterday
+evening.
+
+18
+00:04:47,950 --> 00:04:52,750
+So I'm feeling 100 times better today than
+I did yesterday around this time.
+
+19
+00:04:52,950 --> 00:04:54,630
+So that's good news.
+
+20
+00:04:56,350 --> 00:04:58,470
+And other than that, no, nothing much
+else.
+
+21
+00:04:58,590 --> 00:05:06,690
+Just working and trying to recuperate,
+I guess, is my week in a nutshell.
+
+22
+00:05:07,370 --> 00:05:08,870
+So that's okay.
+
+23
+00:05:24,980 --> 00:05:26,120
+Yeah, no worries.
+
+24
+00:05:26,260 --> 00:05:27,060
+I love hearing the...
+
+25
+00:05:33,180 --> 00:05:37,840
+But yeah, nonetheless, I think that will
+be fine.
+
+26
+00:05:40,160 --> 00:05:45,440
+Could have actually just used the link
+that I... Oh, that's the wrong one.
+
+27
+00:05:47,060 --> 00:05:48,660
+Yes, this is wrong.
+
+28
+00:05:50,760 --> 00:05:51,320
+Probably.
+
+29
+00:05:51,680 --> 00:05:52,960
+We have a few different ones.
+
+30
+00:06:00,790 --> 00:06:01,970
+Yeah, this is it here.
+
+31
+00:06:04,050 --> 00:06:04,610
+Good.
+
+32
+00:06:04,930 --> 00:06:05,150
+Okay.
+
+33
+00:06:08,430 --> 00:06:12,630
+Okay, let's put this on this side.
+
+34
+00:06:16,730 --> 00:06:17,850
+Okay, wonderfully.
+
+35
+00:06:18,570 --> 00:06:20,550
+Let me increase the size a bit.
+
+36
+00:06:21,110 --> 00:06:21,470
+Too
+
+37
+00:06:26,390 --> 00:06:27,570
+big.
+
+38
+00:06:28,530 --> 00:06:36,730
+Okay, so I'd suggest, why don't we
+continue onwards with the questions we
+
+39
+00:06:36,730 --> 00:06:38,010
+haven't gotten to?
+
+40
+00:06:39,350 --> 00:06:47,230
+And then ultimately, we can go back and
+review sort of what we put together in
+
+41
+00:06:47,230 --> 00:06:48,410
+terms of what was written down.
+
+42
+00:06:48,890 --> 00:06:53,330
+It wasn't modified that much to a great
+degree.
+
+43
+00:06:54,090 --> 00:06:55,450
+So we should be okay.
+
+44
+00:06:55,470 --> 00:06:56,750
+Also, on that side, too.
+
+45
+00:06:57,490 --> 00:07:00,590
+So I think we got to... I just want to
+make sure.
+
+46
+00:07:02,790 --> 00:07:03,230
+Yeah.
+
+47
+00:07:12,260 --> 00:07:13,100
+Yeah, yeah.
+
+48
+00:07:13,180 --> 00:07:14,980
+So I got to number seven, problem solving.
+
+49
+00:07:15,640 --> 00:07:15,940
+Okay.
+
+50
+00:07:27,020 --> 00:07:28,220
+Okay, let's go.
+
+51
+00:07:33,400 --> 00:07:41,240
+Okay, so the next one focuses on more of
+around operational aspects, right?
+
+52
+00:07:42,320 --> 00:07:50,440
+And this will probably come up in some of
+the technical questions around having a
+
+53
+00:07:50,440 --> 00:07:50,980
+critical bug.
+
+54
+00:07:51,040 --> 00:07:57,520
+I know that you had mentioned before that
+there wasn't really a critical defect that
+
+55
+00:07:57,520 --> 00:07:58,400
+you had encountered.
+
+56
+00:07:59,120 --> 00:08:07,440
+But I know that we had talked about this
+before in previous lessons around concepts
+
+57
+00:08:07,440 --> 00:08:17,140
+about, you know, deploying, assessing the
+criticality, like how much of an impact is
+
+58
+00:08:17,140 --> 00:08:17,620
+the defect?
+
+59
+00:08:18,640 --> 00:08:22,240
+And then the choice of whether to,
+is there enough time to solve it?
+
+60
+00:08:22,280 --> 00:08:23,500
+Or do you need to roll back?
+
+61
+00:08:23,920 --> 00:08:28,780
+So that's really sort of how you want to
+approach this approach to this answer.
+
+62
+00:08:29,340 --> 00:08:32,120
+Yeah, I'll ask it, and then maybe have a
+think about it.
+
+63
+00:08:32,160 --> 00:08:36,340
+And then, you know, you can try to
+summarize your thoughts.
+
+64
+00:08:37,520 --> 00:08:41,880
+So yeah, tell me about a critical bug
+breached production.
+
+65
+00:08:42,300 --> 00:08:45,560
+Usually that's after post release.
+
+66
+00:08:45,940 --> 00:08:47,700
+And what immediate steps did you take?
+
+67
+00:09:07,390 --> 00:09:08,830
+Yeah.
+
+68
+00:10:33,760 --> 00:10:35,460
+That's okay.
+
+69
+00:10:35,460 --> 00:10:35,620
+Okay.
+
+70
+00:10:40,360 --> 00:10:42,120
+Yeah, so something like that.
+
+71
+00:10:42,680 --> 00:10:44,740
+So okay.
+
+72
+00:11:16,200 --> 00:11:21,020
+I wonder, yeah, I wonder if we,
+
+73
+00:11:25,630 --> 00:11:31,410
+yeah, so I think the best bet here would
+ultimately be, I think ultimately the best
+
+74
+00:11:31,410 --> 00:11:39,150
+bet here would be describing the process
+that you're fully aware of.
+
+75
+00:11:39,510 --> 00:11:45,370
+And then ultimately, I wonder if it's
+smart to mention you've never gone through
+
+76
+00:11:45,370 --> 00:11:47,370
+such an occurrence.
+
+77
+00:11:48,750 --> 00:11:49,570
+It's very interesting.
+
+78
+00:11:49,770 --> 00:12:00,550
+You've never had like a high impact defect
+in production in your entire career on any
+
+79
+00:12:00,550 --> 00:12:01,090
+application?
+
+80
+00:12:37,280 --> 00:12:38,160
+It's rare.
+
+81
+00:12:39,360 --> 00:12:41,220
+That's good, though, I mean, in a way.
+
+82
+00:12:42,500 --> 00:12:46,560
+But yeah, perhaps instead of saying,
+unfortunately, it could be fortunately,
+
+83
+00:12:46,800 --> 00:12:51,540
+fortunately during my career, I have not
+encountered such a scenario or,
+
+84
+00:12:53,000 --> 00:12:54,440
+yeah, it certainly can be stressful.
+
+85
+00:12:58,440 --> 00:12:59,080
+Yeah.
+
+86
+00:12:59,080 --> 00:13:03,020
+Maybe what we can conclude here is that
+you have had production defects,
+
+87
+00:13:03,280 --> 00:13:13,680
+of course, but they were not critical path
+enough to justify either a rollback or
+
+88
+00:13:14,540 --> 00:13:19,900
+some sort of critical focus, because they
+were defects that were, you know,
+
+89
+00:13:21,480 --> 00:13:29,520
+inconvenient, but nothing that was causing
+a substantial impact to a large user base
+
+90
+00:13:29,520 --> 00:13:36,320
+or, or, you know, the performance of the
+environment.
+
+91
+00:13:46,020 --> 00:13:48,560
+So, of course, I have,
+
+92
+00:14:11,510 --> 00:14:12,050
+yeah.
+
+93
+00:14:12,050 --> 00:14:12,050
+Yeah.
+
+94
+00:14:32,790 --> 00:14:33,750
+So, okay.
+
+95
+00:14:33,870 --> 00:14:43,060
+We either had to apply a hot fix.
+
+96
+00:14:43,200 --> 00:14:52,250
+Yeah, that's or wait until the next
+scheduled.
+
+97
+00:14:54,790 --> 00:14:57,310
+Yeah, that's certainly enough.
+
+98
+00:14:57,450 --> 00:14:57,610
+Yeah.
+
+99
+00:14:57,610 --> 00:14:57,710
+Yeah.
+
+100
+00:15:00,380 --> 00:15:00,960
+Yeah.
+
+101
+00:15:06,010 --> 00:15:06,590
+Yeah.
+
+102
+00:15:15,350 --> 00:15:15,930
+Okay.
+
+103
+00:15:16,590 --> 00:15:16,910
+Good.
+
+104
+00:15:17,810 --> 00:15:19,290
+So, I don't mind this at all.
+
+105
+00:15:19,490 --> 00:15:20,890
+Pretty good answer.
+
+106
+00:15:22,290 --> 00:15:22,910
+It's a quick.
+
+107
+00:15:28,490 --> 00:15:29,030
+Okay.
+
+108
+00:15:29,250 --> 00:15:33,430
+So, this is quite an important one as
+well, especially when you're like a tech
+
+109
+00:15:33,430 --> 00:15:38,710
+lead, and it's a large, larger size team,
+multiple applications, multiple things
+
+110
+00:15:38,710 --> 00:15:39,330
+going on.
+
+111
+00:15:39,330 --> 00:15:45,030
+So, we're going to want to think about how
+you put this answer together, and I can
+
+112
+00:15:45,030 --> 00:15:46,010
+provide some guidance.
+
+113
+00:15:48,030 --> 00:15:50,290
+So, excuse me.
+
+114
+00:15:50,610 --> 00:15:56,150
+So, the question being is, how do you
+prioritize your daily work when you have
+
+115
+00:15:56,150 --> 00:16:01,390
+multiple urging bug fixes and new feature
+deadlines at the same time?
+
+116
+00:16:02,590 --> 00:16:13,070
+So, really, the answer has to be not about
+the what, you know, whether it's defects,
+
+117
+00:16:13,210 --> 00:16:16,530
+enhancements, internal, external,
+client focused.
+
+118
+00:16:17,110 --> 00:16:21,350
+The important part is, how do you manage
+prioritization of work?
+
+119
+00:16:23,150 --> 00:16:25,330
+So, there's a couple things to consider.
+
+120
+00:16:26,110 --> 00:16:32,470
+One is that features already could have
+had a priority associated to it.
+
+121
+00:16:33,370 --> 00:16:35,550
+Defects, priorities, product roadmaps.
+
+122
+00:16:39,150 --> 00:16:48,510
+The other is that there are activities
+that have similar priorities, but they
+
+123
+00:16:48,510 --> 00:16:50,050
+haven't been completely ranked.
+
+124
+00:16:50,610 --> 00:16:55,910
+So, you may actually have to describe what
+would you do in that situation.
+
+125
+00:16:56,430 --> 00:17:03,190
+If you have three or four things that are
+almost the same priority, but aren't,
+
+126
+00:17:03,370 --> 00:17:04,650
+but it's not clearly defined.
+
+127
+00:17:05,190 --> 00:17:08,670
+So, then you have to have, you discuss
+what's called the prioritization.
+
+128
+00:17:09,570 --> 00:17:14,810
+Meaning, you use a priority framework like
+RICE, right?
+
+129
+00:17:17,030 --> 00:17:21,330
+Like a priority framework like RICE.
+
+130
+00:17:22,130 --> 00:17:23,470
+This determines
+
+131
+00:17:28,230 --> 00:17:29,910
+features and defects.
+
+132
+00:17:36,680 --> 00:17:37,520
+Yeah.
+
+133
+00:17:39,320 --> 00:17:40,160
+Yeah.
+
+134
+00:17:40,280 --> 00:17:45,320
+So, if you look at, there are numerous,
+there are numerous priority frameworks.
+
+135
+00:17:45,380 --> 00:17:52,140
+If you look at RICE, and there's others,
+there are quite a number.
+
+136
+00:17:54,140 --> 00:17:58,180
+If you look here, prioritization method.
+
+137
+00:18:03,200 --> 00:18:05,000
+Where did that graphic go?
+
+138
+00:18:05,200 --> 00:18:06,340
+Such a nice graphic.
+
+139
+00:18:07,020 --> 00:18:07,860
+Here you go.
+
+140
+00:18:10,220 --> 00:18:11,520
+I'll put it right in there.
+
+141
+00:18:24,710 --> 00:18:25,110
+Yeah.
+
+142
+00:18:25,130 --> 00:18:27,870
+So, you can see.
+
+143
+00:18:28,330 --> 00:18:33,490
+So, this is always something that you
+don't, you can always refer to the
+
+144
+00:18:33,490 --> 00:18:35,090
+framework, even if you haven't used it.
+
+145
+00:18:35,410 --> 00:18:38,130
+But just so you can get comfortable with
+it.
+
+146
+00:18:38,190 --> 00:18:43,670
+So, typically, what would happen in this
+scenario is you have all the stakeholders
+
+147
+00:18:43,670 --> 00:18:49,270
+together, usually a representative from
+product, from business, from engineering,
+
+148
+00:18:49,650 --> 00:18:54,110
+and probably customer success that
+represents the client.
+
+149
+00:18:55,250 --> 00:18:56,750
+And ultimately, you have RICE.
+
+150
+00:18:57,010 --> 00:18:59,730
+So, a couple of the frameworks only have
+three metrics.
+
+151
+00:18:59,850 --> 00:19:00,530
+Some have four.
+
+152
+00:19:00,970 --> 00:19:02,390
+It doesn't really matter what it's called.
+
+153
+00:19:02,870 --> 00:19:04,770
+RICE is the easiest one to remember.
+
+154
+00:19:05,770 --> 00:19:08,350
+The world needs RICE.
+
+155
+00:19:08,930 --> 00:19:10,730
+I suppose it's easy to remember.
+
+156
+00:19:10,930 --> 00:19:14,070
+But it's reach, meaning the size,
+right?
+
+157
+00:19:14,210 --> 00:19:21,010
+Like, how many does, you know,
+user community size.
+
+158
+00:19:21,870 --> 00:19:22,670
+The impact.
+
+159
+00:19:23,150 --> 00:19:29,430
+So, impact being, you know, is it
+affecting a drastic amount of individuals?
+
+160
+00:19:29,910 --> 00:19:37,270
+Is it having a negative perception to your
+customer base?
+
+161
+00:19:42,050 --> 00:19:44,650
+Is it creating negative social media?
+
+162
+00:19:45,690 --> 00:19:50,550
+Is it impacting your users, preventing
+people from purchasing things?
+
+163
+00:19:50,830 --> 00:19:54,930
+So, impact is ultimately very important.
+
+164
+00:19:55,810 --> 00:19:56,450
+Confidence.
+
+165
+00:19:57,230 --> 00:19:59,970
+Confidence is just, it's just that.
+
+166
+00:20:01,190 --> 00:20:10,550
+How much do you, how confident are you in
+fixing or finalizing, finishing the said
+
+167
+00:20:10,550 --> 00:20:13,550
+feature or defect in a certain amount of
+time that's been
+
+168
+00:20:16,740 --> 00:20:18,840
+estimated?
+
+169
+00:20:19,140 --> 00:20:20,100
+And then, lastly, is effort.
+
+170
+00:20:20,840 --> 00:20:22,660
+So, what's the effort to actually get this
+done?
+
+171
+00:20:25,000 --> 00:20:29,220
+So, what basically, yeah.
+
+172
+00:20:29,420 --> 00:20:33,700
+So, basically, you add it up in the score
+that gets the highest from all the
+
+173
+00:20:33,700 --> 00:20:34,140
+stakeholders.
+
+174
+00:20:35,280 --> 00:20:39,640
+Basically, that's the, that is priority
+number one.
+
+175
+00:20:39,880 --> 00:20:44,200
+And that's what the engineering team would
+work on, regardless if it's internal,
+
+176
+00:20:44,880 --> 00:20:49,120
+external, client-focused.
+
+177
+00:20:54,410 --> 00:20:55,010
+Yeah.
+
+178
+00:21:10,140 --> 00:21:13,920
+Yeah, and it's officially used
+internationally or globally, probably
+
+179
+00:21:13,920 --> 00:21:16,520
+including in your neck of the woods.
+
+180
+00:21:16,920 --> 00:21:26,580
+So, it's a product framework, but it's
+very client-focused.
+
+181
+00:21:27,760 --> 00:21:31,200
+You know, usually, by definition,
+client work takes precedence over
+
+182
+00:21:31,200 --> 00:21:31,700
+everything.
+
+183
+00:21:32,080 --> 00:21:37,160
+You know, if customers are suffering,
+you know, that's the highest impact,
+
+184
+00:21:37,220 --> 00:21:37,600
+of course.
+
+185
+00:21:38,160 --> 00:21:40,020
+But not always the case.
+
+186
+00:21:40,820 --> 00:21:47,080
+It could be that you have to get a product
+out as soon as possible because you're
+
+187
+00:21:47,080 --> 00:21:48,640
+falling behind in market share.
+
+188
+00:21:48,880 --> 00:21:53,340
+You don't do something soon, you're going
+to not exist as a company, right?
+
+189
+00:21:54,140 --> 00:21:55,060
+So, yeah.
+
+190
+00:21:55,560 --> 00:21:58,640
+Just something to determine, which is
+interesting.
+
+191
+00:21:58,640 --> 00:21:58,680
+Okay.
+
+192
+00:22:00,180 --> 00:22:00,600
+So, yeah.
+
+193
+00:22:01,520 --> 00:22:05,440
+Why don't we, yeah.
+
+194
+00:22:11,260 --> 00:22:11,460
+Sure.
+
+195
+00:22:58,990 --> 00:23:02,090
+In our, sorry?
+
+196
+00:23:38,650 --> 00:23:44,730
+Yeah, you could just say simply,
+like, you know, I'm used to some priority
+
+197
+00:23:44,730 --> 00:23:47,550
+methodologies like RICE, and there's many.
+
+198
+00:23:47,930 --> 00:23:53,430
+So, you can just drop that subtle hint
+around RICE and you don't have to go into
+
+199
+00:23:53,430 --> 00:23:58,130
+the detail of it, but just say,
+you know, you're used to priority meetings
+
+200
+00:23:58,130 --> 00:24:00,910
+and all of those aspects, which is
+actually interesting.
+
+201
+00:24:02,830 --> 00:24:03,510
+So, yeah.
+
+202
+00:24:04,830 --> 00:24:05,030
+Okay.
+
+203
+00:24:05,210 --> 00:24:10,810
+So, usually, the priority is identified by
+the product managers and or team leads.
+
+204
+00:24:11,450 --> 00:24:15,390
+You could put maybe stakeholders and
+
+205
+00:24:20,600 --> 00:24:21,160
+stakeholders.
+
+206
+00:24:25,140 --> 00:24:38,260
+As an engineer, we can usually follow the
+values that are set in terms of what gets
+
+207
+00:24:38,260 --> 00:24:40,920
+addressed first.
+
+208
+00:24:47,060 --> 00:24:56,600
+However, if it is not, we have our own
+responsibility to verify the priority of
+
+209
+00:24:56,600 --> 00:25:07,900
+competing activities using priority
+methodologies like RICE, for instance.
+
+210
+00:25:20,400 --> 00:25:20,680
+Yeah.
+
+211
+00:25:24,440 --> 00:25:32,360
+Maybe something like having an established
+process and, yeah.
+
+212
+00:25:32,480 --> 00:25:43,270
+So, like, um, by having an established
+process and methodologies in place,
+
+213
+00:25:43,330 --> 00:25:54,770
+you know, we usually can identify
+activities to be done relatively quickly
+
+214
+00:25:54,770 --> 00:25:58,050
+without introducing delay.
+
+215
+00:25:59,000 --> 00:26:00,410
+Maybe something like that.
+
+216
+00:26:30,200 --> 00:26:30,360
+Yeah.
+
+217
+00:26:36,430 --> 00:26:44,080
+So, by using such methodologies and having
+established processes in place,
+
+218
+00:26:47,150 --> 00:26:53,400
+we can extract business values and impact
+
+219
+00:26:56,780 --> 00:27:02,560
+from the current situation
+
+220
+00:27:08,000 --> 00:27:14,220
+and identify as many priorities as we can.
+
+221
+00:27:17,820 --> 00:27:18,340
+Good.
+
+222
+00:27:19,020 --> 00:27:20,280
+That's not bad.
+
+223
+00:27:21,860 --> 00:27:22,700
+Have a read.
+
+224
+00:27:23,240 --> 00:27:23,580
+Yeah.
+
+225
+00:27:23,580 --> 00:27:24,180
+Yeah.
+
+226
+00:28:07,420 --> 00:28:09,140
+I like the answer.
+
+227
+00:28:14,870 --> 00:28:15,390
+Good.
+
+228
+00:28:16,550 --> 00:28:17,850
+Keep that pretty picture.
+
+229
+00:28:25,580 --> 00:28:26,100
+Wow.
+
+230
+00:28:27,960 --> 00:28:30,080
+It's evening, buddy, not morning.
+
+231
+00:28:31,300 --> 00:28:36,680
+Some of the chickens here are so mentally
+kind of rooster.
+
+232
+00:28:37,280 --> 00:28:38,220
+It's getting dark.
+
+233
+00:28:38,340 --> 00:28:38,880
+It's supposed to be.
+
+234
+00:28:39,300 --> 00:28:40,000
+Did you know?
+
+235
+00:28:40,120 --> 00:28:40,960
+I had no idea.
+
+236
+00:28:41,140 --> 00:28:41,800
+I'm from Canada.
+
+237
+00:28:41,960 --> 00:28:43,440
+Actually, this is a really funny story.
+
+238
+00:28:44,020 --> 00:28:48,860
+Did you have any idea that roosters and
+chickens, if they don't have, like,
+
+239
+00:28:49,160 --> 00:28:53,600
+a chicken house, like a chicken coop,
+we call it, they sleep in trees.
+
+240
+00:28:54,820 --> 00:28:59,800
+I had no idea that chickens sleep in trees
+or on branches and things like that.
+
+241
+00:29:00,480 --> 00:29:03,660
+I just thought they hid in some bush.
+
+242
+00:29:04,600 --> 00:29:09,740
+No, I had no idea they actually tried to
+jump and fly into trees.
+
+243
+00:29:11,400 --> 00:29:13,300
+Usually, they go to sleep right around six
+o'clock.
+
+244
+00:29:14,360 --> 00:29:15,260
+So, bizarre.
+
+245
+00:29:30,060 --> 00:29:30,460
+Yeah.
+
+246
+00:29:30,460 --> 00:29:31,080
+Of course.
+
+247
+00:29:32,580 --> 00:29:33,200
+That's funny.
+
+248
+00:29:41,920 --> 00:29:46,680
+Yeah, yeah, and they actually try to go
+pretty high up in the tree, so they can't
+
+249
+00:29:46,680 --> 00:29:48,260
+get predators, right?
+
+250
+00:29:48,900 --> 00:29:52,080
+So, it's not like they're only,
+like, five, you know, three, four,
+
+251
+00:29:52,180 --> 00:29:54,000
+or five meters above the ground.
+
+252
+00:29:54,260 --> 00:30:00,660
+They go pretty high into the tree and,
+you know, try to hide or blend in when
+
+253
+00:30:00,660 --> 00:30:01,080
+it's dark.
+
+254
+00:30:01,200 --> 00:30:06,320
+And they always start going into the tree
+just as the sun is going down.
+
+255
+00:30:06,820 --> 00:30:08,760
+So, it's quite intriguing.
+
+256
+00:30:09,580 --> 00:30:10,780
+I had no idea.
+
+257
+00:30:11,320 --> 00:30:12,320
+I'd never seen it before.
+
+258
+00:30:13,300 --> 00:30:15,000
+Yeah, quite funny.
+
+259
+00:30:18,020 --> 00:30:19,100
+Yeah, can you imagine?
+
+260
+00:30:19,280 --> 00:30:22,200
+We're talking about tech and software
+development and then how a rooster gets
+
+261
+00:30:22,200 --> 00:30:23,020
+into a tree.
+
+262
+00:30:30,520 --> 00:30:40,380
+Yeah, they try to get onto the roof and
+then do running jumps.
+
+263
+00:30:40,620 --> 00:30:41,880
+They don't like to stay on the roof.
+
+264
+00:30:43,020 --> 00:30:49,060
+They somehow get onto a level and then
+they try to fly and get to a branch and do
+
+265
+00:30:49,060 --> 00:30:49,820
+all that kind of stuff.
+
+266
+00:30:50,140 --> 00:30:50,640
+So, it's fun.
+
+267
+00:30:51,480 --> 00:30:52,360
+Yeah, so.
+
+268
+00:30:53,560 --> 00:30:54,880
+Okay, well, the next one.
+
+269
+00:30:54,880 --> 00:30:58,020
+More about leadership and mentoring.
+
+270
+00:30:59,540 --> 00:31:01,820
+So, I know that you've mentioned this
+quite a bit.
+
+271
+00:31:04,660 --> 00:31:10,400
+Have you ever had to mentor a junior
+engineer or onboard a new developer to
+
+272
+00:31:10,400 --> 00:31:10,920
+your team?
+
+273
+00:31:10,920 --> 00:31:13,200
+And how do you normally approach it?
+
+274
+00:31:35,050 --> 00:31:35,810
+Yeah.
+
+275
+00:33:45,860 --> 00:33:47,260
+So,
+
+276
+00:34:49,210 --> 00:35:11,720
+Okay, well, let's think of this.
+
+277
+00:35:11,720 --> 00:35:17,540
+Let's think of this in a higher use of
+English.
+
+278
+00:35:18,540 --> 00:35:20,840
+So, okay.
+
+279
+00:35:21,020 --> 00:35:24,600
+So, you've confirmed you have experience
+and, you know, you consider it a fortunate
+
+280
+00:35:24,600 --> 00:35:26,320
+experience that you've mentored.
+
+281
+00:35:26,660 --> 00:35:30,080
+And it includes when you mentor,
+it includes onboarding new employees or
+
+282
+00:35:30,080 --> 00:35:31,520
+new developers into your team.
+
+283
+00:35:31,640 --> 00:35:32,840
+So, how do you do that?
+
+284
+00:35:33,840 --> 00:35:38,380
+Well, one is you introduce documentation
+and material.
+
+285
+00:35:39,060 --> 00:35:41,120
+That's self-evident.
+
+286
+00:35:41,920 --> 00:35:43,700
+But more importantly, how do you mentor?
+
+287
+00:35:43,700 --> 00:35:45,200
+How do you train?
+
+288
+00:35:45,800 --> 00:35:46,720
+How do you teach?
+
+289
+00:35:47,400 --> 00:35:48,540
+So, it's those words.
+
+290
+00:35:48,860 --> 00:35:52,880
+So, let's start off with during my career,
+I was fortunate enough to mentor and
+
+291
+00:35:52,880 --> 00:35:54,820
+onboard a new developer in our team.
+
+292
+00:35:56,540 --> 00:35:59,380
+During the onboarding process,
+
+293
+00:36:03,860 --> 00:36:19,160
+our team has put together a lot of
+detailed documentation about our platform,
+
+294
+00:36:23,100 --> 00:36:37,220
+products, and technical tools that allow
+the colleague to become self-sufficient,
+
+295
+00:36:41,840 --> 00:36:44,060
+something like that, or independent.
+
+296
+00:36:45,680 --> 00:36:49,560
+To become independent, we can put pins on
+the word you like, independent.
+
+297
+00:36:56,500 --> 00:36:57,500
+So, yeah.
+
+298
+00:36:57,740 --> 00:36:59,480
+And so, what does mentoring mean to you?
+
+299
+00:36:59,640 --> 00:37:01,380
+Mentoring means teaching, right?
+
+300
+00:37:02,040 --> 00:37:04,500
+Teaching, guiding, reviewing.
+
+301
+00:37:05,640 --> 00:37:08,100
+So, you want to give a lot of detail here.
+
+302
+00:37:08,400 --> 00:37:10,080
+This is what a true leader is,
+right?
+
+303
+00:37:10,120 --> 00:37:14,080
+Whether you're a manager or whether you're
+leading a technical team and focusing on
+
+304
+00:37:14,080 --> 00:37:14,380
+tech.
+
+305
+00:37:16,920 --> 00:37:22,160
+Whether it's things like job shadow,
+whether it's that you have the buddy
+
+306
+00:37:22,160 --> 00:37:27,880
+system where you bring them to client
+meetings on complex projects, whether you
+
+307
+00:37:27,880 --> 00:37:32,820
+assign them technical tasks and they
+follow a principal developer, intermediate
+
+308
+00:37:32,820 --> 00:37:37,880
+developer, or whether it's a combination.
+
+309
+00:37:41,920 --> 00:37:43,040
+So, how do you teach?
+
+310
+00:38:01,510 --> 00:38:01,850
+Okay.
+
+311
+00:38:55,460 --> 00:38:55,980
+Yeah.
+
+312
+00:38:56,080 --> 00:38:57,100
+So, let's not get out.
+
+313
+00:38:57,220 --> 00:38:59,420
+Let's try to reset here for a minute,
+right?
+
+314
+00:38:59,620 --> 00:39:04,200
+Because the question talks about a junior
+engineer, someone who's a newbie outside
+
+315
+00:39:04,200 --> 00:39:04,760
+of school.
+
+316
+00:39:05,040 --> 00:39:10,480
+So, you're kind of describing someone
+who's a seasoned professional and you
+
+317
+00:39:10,480 --> 00:39:12,620
+would help them with the onboarding
+process.
+
+318
+00:39:13,160 --> 00:39:20,020
+We want to do, even if it's a fictitious
+story, whether it's not completely true.
+
+319
+00:39:20,760 --> 00:39:25,620
+You want to be able to communicate or
+describe some of your training methods.
+
+320
+00:39:26,760 --> 00:39:30,940
+And the training methods can be,
+you know, what's done around the world,
+
+321
+00:39:31,040 --> 00:39:31,320
+really.
+
+322
+00:39:33,520 --> 00:39:38,840
+You know, you assign a junior engineer to
+job shadow with one of your senior
+
+323
+00:39:38,840 --> 00:39:39,360
+engineers.
+
+324
+00:39:39,540 --> 00:39:45,600
+So, they learn about your platform,
+your tools, and just overall how a project
+
+325
+00:39:45,600 --> 00:39:48,820
+is working or how the initiative is in
+progress.
+
+326
+00:39:49,840 --> 00:39:51,980
+Another one, of course, is job shadowing.
+
+327
+00:39:52,620 --> 00:39:55,180
+You know, they go for buddy-buddy.
+
+328
+00:39:55,840 --> 00:40:03,440
+You know, the junior engineer can approach
+anyone in the team, but they have a SPOC,
+
+329
+00:40:04,540 --> 00:40:09,000
+a single point of contact, at least to
+start off with, for a certain amount of
+
+330
+00:40:09,000 --> 00:40:09,260
+time.
+
+331
+00:40:11,200 --> 00:40:14,060
+You're giving the example of code reviews,
+right?
+
+332
+00:40:14,200 --> 00:40:20,180
+So, when it's a junior engineer,
+you typically, of course, would spend a
+
+333
+00:40:20,180 --> 00:40:22,080
+little bit more time reviewing their work.
+
+334
+00:40:22,560 --> 00:40:27,800
+And if there was some challenges,
+you would have a technical conversation on
+
+335
+00:40:27,800 --> 00:40:32,300
+how they can improve certain technical
+activities in a positive way.
+
+336
+00:40:33,340 --> 00:40:35,080
+That's kind of how you describe it,
+right?
+
+337
+00:40:38,860 --> 00:40:39,240
+Yeah.
+
+338
+00:40:48,380 --> 00:40:48,660
+Yeah.
+
+339
+00:41:05,170 --> 00:41:05,450
+Yeah.
+
+340
+00:41:42,860 --> 00:41:43,140
+Yeah.
+
+341
+00:42:28,270 --> 00:42:28,550
+Okay.
+
+342
+00:42:28,550 --> 00:42:30,170
+And then, sorry, what were you going to
+say?
+
+343
+00:42:31,050 --> 00:42:32,190
+So, it would allow us to provide some…
+
+344
+00:42:55,660 --> 00:42:56,160
+Okay.
+
+345
+00:43:02,140 --> 00:43:08,780
+…in order to ensure clarity and
+understanding.
+
+346
+00:43:12,580 --> 00:43:13,580
+Something like that.
+
+347
+00:43:13,860 --> 00:43:15,800
+So, we can… Oh, I got to get rid of this.
+
+348
+00:43:21,710 --> 00:43:25,830
+Okay, so that's probably not too bad of a
+starting point.
+
+349
+00:43:26,050 --> 00:43:26,110
+Yeah.
+
+350
+00:43:45,480 --> 00:43:45,960
+Okay.
+
+351
+00:43:46,800 --> 00:43:47,860
+I like this question.
+
+352
+00:43:48,460 --> 00:43:49,300
+Adoption and growth.
+
+353
+00:43:51,280 --> 00:43:56,420
+Tell me about a time you had to learn a
+new framework, library, or tool quickly
+
+354
+00:43:56,420 --> 00:44:00,060
+for a project or some initiative.
+
+355
+00:44:26,000 --> 00:44:27,520
+And it can definitely be a story.
+
+356
+00:44:27,660 --> 00:44:28,460
+Tell me about a time.
+
+357
+00:44:28,600 --> 00:44:37,240
+Once upon a time in a faraway land,
+there was a Kazistani senior professional
+
+358
+00:44:37,240 --> 00:44:40,900
+named Andrew who came down from the
+mountains and learned technology.
+
+359
+00:44:42,000 --> 00:44:42,140
+Right?
+
+360
+00:44:44,440 --> 00:44:51,060
+It was a hot summer day, and the sun had
+not come through because it was so smoggy
+
+361
+00:44:51,060 --> 00:44:51,980
+and polluted.
+
+362
+00:44:58,250 --> 00:44:59,070
+Oh, is it?
+
+363
+00:44:59,570 --> 00:45:00,230
+You know what?
+
+364
+00:45:01,990 --> 00:45:07,150
+It's polluted everywhere right now.
+
+365
+00:45:07,630 --> 00:45:07,970
+Awful.
+
+366
+00:45:08,510 --> 00:45:11,430
+Half of Canada is under smoke,
+forest fire.
+
+367
+00:45:12,070 --> 00:45:19,470
+Indonesia, the Philippines, portions of
+Vietnam are all under smog and forest fire
+
+368
+00:45:19,470 --> 00:45:21,590
+from a massive forest fire in Malaysia.
+
+369
+00:45:22,530 --> 00:45:24,390
+Things have been burning for weeks and
+weeks.
+
+370
+00:45:24,610 --> 00:45:26,010
+I can't believe it's reached this far.
+
+371
+00:45:26,610 --> 00:45:32,450
+Over water as well, like over vast oceans,
+this smog and smoke is.
+
+372
+00:45:33,650 --> 00:45:36,410
+And then of course there's natural
+pollution on top of everything else,
+
+373
+00:45:36,470 --> 00:45:36,610
+right?
+
+374
+00:45:36,610 --> 00:45:40,010
+If you're in Beijing or Moscow or
+wherever.
+
+375
+00:45:41,670 --> 00:45:42,550
+Pretty brutal.
+
+376
+00:45:55,920 --> 00:45:56,160
+Yeah.
+
+377
+00:47:12,470 --> 00:47:13,870
+Okay.
+
+378
+00:47:49,760 --> 00:47:53,680
+Spend some personal time.
+
+379
+00:48:55,870 --> 00:48:57,330
+Something like that.
+
+380
+00:48:59,030 --> 00:49:00,330
+Something like that.
+
+381
+00:49:02,350 --> 00:49:03,070
+No,
+
+382
+00:49:11,110 --> 00:49:12,270
+I think it's good.
+
+383
+00:49:19,560 --> 00:49:20,280
+Okay.
+
+384
+00:49:20,560 --> 00:49:22,340
+This is a really important one.
+
+385
+00:49:22,340 --> 00:49:28,100
+Actually, I actually even have problems
+answering this kind of question.
+
+386
+00:49:31,460 --> 00:49:36,520
+Because you don't want to sound too
+arrogant by saying, oh, I have experience
+
+387
+00:49:36,520 --> 00:49:40,500
+and I have the knowledge, so generally my
+estimates are accurate.
+
+388
+00:49:40,960 --> 00:49:43,900
+Well then, what did you do in the
+beginning of your career?
+
+389
+00:49:44,060 --> 00:49:45,020
+Were you always inaccurate?
+
+390
+00:49:46,700 --> 00:49:52,060
+So, how do you estimate how long a front
+end task or user story would take during
+
+391
+00:49:52,060 --> 00:49:52,740
+sprint planning?
+
+392
+00:49:53,320 --> 00:49:55,380
+Is it two story points, five story points?
+
+393
+00:49:56,300 --> 00:49:59,920
+It's a tough one to answer without seeming
+arrogant because you know your stuff.
+
+394
+00:50:07,020 --> 00:50:08,180
+I've been lucky.
+
+395
+00:50:09,180 --> 00:50:16,760
+I don't, on the lower level technical
+detail, I can't answer certain things,
+
+396
+00:50:16,880 --> 00:50:20,520
+but when it's an initiative, like let's
+say it's two systems and you're
+
+397
+00:50:20,520 --> 00:50:23,460
+integrating it through some sort of
+interface and you're going to be
+
+398
+00:50:23,460 --> 00:50:29,020
+exchanging data and then you're going to
+update some workflows and user experience
+
+399
+00:50:29,020 --> 00:50:35,640
+and you got to the UI and UX updates and
+then the complexity of how many data
+
+400
+00:50:35,640 --> 00:50:38,420
+elements there are and what information
+you need to present.
+
+401
+00:50:39,060 --> 00:50:44,060
+And is there any complex technologies that
+are being introduced that the team doesn't
+
+402
+00:50:44,060 --> 00:50:44,360
+know?
+
+403
+00:50:44,800 --> 00:50:47,160
+Like if the team knows it inside and out,
+then it's going to be quick.
+
+404
+00:50:47,280 --> 00:50:50,220
+If they don't, it's going to be slow.
+
+405
+00:50:50,740 --> 00:50:55,080
+And generally any estimate you get from
+them, double it, just so you're not wrong.
+
+406
+00:50:57,180 --> 00:50:58,840
+But yeah, it's a hard question.
+
+407
+00:50:59,180 --> 00:51:00,520
+It's a hard, hard question.
+
+408
+00:51:00,880 --> 00:51:04,540
+And it is, it's hard to estimate whether
+you're in the beginning of your career or
+
+409
+00:51:04,540 --> 00:51:06,300
+you're a seasoned professional.
+
+410
+00:51:07,840 --> 00:51:07,840
+So,
+
+411
+00:51:19,910 --> 00:51:26,170
+yeah, the focus is interesting.
+
+412
+00:51:26,290 --> 00:51:30,030
+It says breaking tasks into even smaller
+subcomponents, right?
+
+413
+00:51:30,170 --> 00:51:37,430
+So like if the user story is about
+building an API, like at least the
+
+414
+00:51:37,430 --> 00:51:42,870
+blueprint of the API, well, you can
+discuss what the subcomponents of the API
+
+415
+00:51:42,870 --> 00:51:44,110
+structure is, for example.
+
+416
+00:51:44,690 --> 00:51:47,070
+Not a bad approach.
+
+417
+00:51:51,130 --> 00:51:51,810
+Yeah.
+
+418
+00:52:09,580 --> 00:52:10,260
+Okay.
+
+419
+00:52:18,100 --> 00:52:19,020
+No worries.
+
+420
+00:52:45,440 --> 00:52:48,760
+Can you repeat, sorry?
+
+421
+00:52:57,780 --> 00:52:59,420
+To lobby for one's case.
+
+422
+00:52:59,920 --> 00:52:59,920
+Okay.
+
+423
+00:53:34,760 --> 00:53:35,060
+Yeah.
+
+424
+00:53:35,540 --> 00:53:35,740
+Yeah.
+
+425
+00:53:35,840 --> 00:53:36,100
+Okay.
+
+426
+00:53:40,200 --> 00:53:41,500
+It's not really, yeah.
+
+427
+00:53:43,060 --> 00:53:47,000
+How you're answering it though doesn't
+really correlate with how you estimate
+
+428
+00:53:47,000 --> 00:53:50,100
+like a technical feature or requirement.
+
+429
+00:53:50,880 --> 00:53:57,880
+I mean, you can lobby for your approach,
+but are you basing it on your experience
+
+430
+00:53:57,880 --> 00:54:02,660
+or by breaking it up into smaller tasks
+then you can estimate better based on
+
+431
+00:54:02,660 --> 00:54:02,880
+that?
+
+432
+00:54:03,660 --> 00:54:04,000
+So, yeah.
+
+433
+00:54:05,160 --> 00:54:06,560
+I understand what you're saying.
+
+434
+00:55:01,910 --> 00:55:02,230
+Okay.
+
+435
+00:55:39,000 --> 00:55:41,500
+I would describe it almost like you've
+mentioned it, right?
+
+436
+00:55:41,560 --> 00:55:56,600
+So if a feature or if a feature or feature
+defect or constant is
+
+437
+00:56:00,180 --> 00:56:20,700
+complicated, my approach is usually
+breaking out the activity into smaller
+
+438
+00:56:20,700 --> 00:56:26,500
+technical tasks or subcomponents.
+
+439
+00:56:30,880 --> 00:56:43,840
+It is easier to estimate, is easier and
+certainly more accurate to estimate
+
+440
+00:56:43,840 --> 00:56:49,120
+activities that are smaller
+
+441
+00:56:53,360 --> 00:56:55,120
+and concise.
+
+442
+00:56:55,700 --> 00:56:59,620
+It is easier and certainly more accurate
+to estimate activities that are smaller
+
+443
+00:56:59,620 --> 00:57:11,220
+and concise rather
+
+444
+00:57:14,990 --> 00:57:29,490
+than an overall estimate on the main goal
+of the request.
+
+445
+00:57:29,490 --> 00:57:29,490
+Okay.
+
+446
+00:57:50,730 --> 00:57:51,650
+Yeah, I know.
+
+447
+00:57:59,450 --> 00:57:59,970
+Yeah.
+
+448
+00:58:14,710 --> 00:58:23,810
+It is easier and certainly more accurate
+to estimate the story points associated
+
+449
+00:58:23,810 --> 00:58:24,930
+with, there you go.
+
+450
+00:58:25,050 --> 00:58:26,650
+So that shows what you're talking about,
+right?
+
+451
+00:58:26,950 --> 00:58:30,410
+So it is easier and certainly more
+accurate to estimate the story points
+
+452
+00:58:30,410 --> 00:58:35,310
+associated with activities that are
+smaller and more concise.
+
+453
+00:58:41,260 --> 00:58:45,940
+It is easier and increasingly
+
+454
+00:58:49,100 --> 00:58:52,500
+accurate to estimate the story points
+associated with activities that are
+
+455
+00:58:52,500 --> 00:58:58,240
+smaller and more concise rather than an
+overall estimate on, let's say,
+
+456
+00:58:58,380 --> 00:59:00,100
+the main goal of a request.
+
+457
+00:59:00,820 --> 00:59:02,880
+That actually sounds pretty good.
+
+458
+00:59:04,140 --> 00:59:05,560
+Clearly put more detail, but
+
+459
+00:59:13,360 --> 00:59:16,400
+because literally, and you know what?
+
+460
+00:59:16,460 --> 00:59:18,960
+This is what we actually do, Andrew,
+when you think of it.
+
+461
+00:59:19,020 --> 00:59:23,240
+If you've got a really detailed user
+story, right?
+
+462
+00:59:24,440 --> 00:59:28,160
+A lot of the times you do it, you even
+generate tasks within JIRA and you
+
+463
+00:59:28,160 --> 00:59:33,380
+generate tasks according to the user
+story.
+
+464
+00:59:33,460 --> 00:59:34,620
+It could also be an EPIC.
+
+465
+00:59:35,380 --> 00:59:39,600
+So if we are using real terminology using
+JIRA, you can have an EPIC.
+
+466
+00:59:39,740 --> 00:59:42,940
+Within the EPIC, you have multiple user
+stories and within those user stories,
+
+467
+00:59:43,040 --> 00:59:47,120
+they still can be complex to associate
+tasks or you do a breakout of the
+
+468
+00:59:47,120 --> 00:59:48,260
+structure of the user story.
+
+469
+00:59:48,880 --> 00:59:53,520
+And that's how you, subcomponents,
+that's how you really provide an overall
+
+470
+00:59:53,520 --> 00:59:56,020
+estimate that's going to be accurate,
+right?
+
+471
+00:59:56,240 --> 01:00:01,960
+You don't, you know, you're not just going
+to stick your finger up in the air and
+
+472
+01:00:01,960 --> 01:00:06,820
+say, this EPIC is going to take three
+weeks.
+
+473
+01:00:06,820 --> 01:00:08,740
+Well, how do you know it's going to take
+three weeks?
+
+474
+01:00:08,900 --> 01:00:13,840
+Well, that's based on the amount of story
+points we've added up for all the user
+
+475
+01:00:13,840 --> 01:00:18,140
+stories that were put associated to this
+EPIC and all the subcomponents within the
+
+476
+01:00:18,140 --> 01:00:19,040
+user stories.
+
+477
+01:00:20,020 --> 01:00:24,340
+And usually once you compile and tally all
+those numbers, that gives you the main
+
+478
+01:00:24,340 --> 01:00:25,840
+estimate of the overall goal.
+
+479
+01:01:25,460 --> 01:01:31,980
+In each user story, there are
+subcomponents or tasks that allow the
+
+480
+01:01:31,980 --> 01:01:49,700
+engineer, including myself, to provide the
+lower level detailed estimate on how many
+
+481
+01:01:49,700 --> 01:01:55,480
+story points this would take.
+
+482
+01:01:56,340 --> 01:02:06,180
+By doing this, it increases the accuracy
+of the estimate.
+
+483
+01:02:46,460 --> 01:02:47,020
+Yeah.
+
+484
+01:02:47,760 --> 01:02:48,300
+Yeah.
+
+485
+01:02:48,540 --> 01:02:52,740
+And I think if you're able just to talk
+about the terminology and know it quite
+
+486
+01:02:52,740 --> 01:02:57,920
+well and talk about one approach that you
+do, then it's more than sufficient.
+
+487
+01:02:58,280 --> 01:03:00,080
+Because it's asking, how do you estimate?
+
+488
+01:03:00,900 --> 01:03:03,080
+The interesting thing is, how do you
+estimate?
+
+489
+01:03:03,400 --> 01:03:06,500
+It's not asking you, how do you estimate
+and make sure it's accurate?
+
+490
+01:03:07,020 --> 01:03:08,720
+It just asks you, how do you estimate?
+
+491
+01:03:12,280 --> 01:03:18,720
+So I estimated JIRA using EPIC's user
+stories and subcomponents or tasks and
+
+492
+01:03:18,720 --> 01:03:20,400
+hope that it's correct.
+
+493
+01:03:21,520 --> 01:03:21,520
+Right?
+
+494
+01:03:21,760 --> 01:03:26,260
+So funny enough, I've been blabbing to you
+for the last five minutes about the
+
+495
+01:03:26,260 --> 01:03:27,720
+accuracy of the estimate.
+
+496
+01:03:28,500 --> 01:03:30,940
+And the question is, just how do you
+estimate?
+
+497
+01:04:12,550 --> 01:04:21,470
+So although the words are not overly
+complicated, but it's, you know,
+
+498
+01:04:21,650 --> 01:04:26,210
+this will be something that you can
+transition into.
+
+499
+01:04:26,630 --> 01:04:29,990
+And if you learn these terms, which you
+are, it's good.
+
+500
+01:04:30,090 --> 01:04:31,370
+It's about the approach.
+
+501
+01:04:31,630 --> 01:04:31,630
+Right?
+
+502
+01:04:31,790 --> 01:04:33,070
+So, yeah.
+
+503
+01:04:35,230 --> 01:04:35,610
+Yeah.
+
+504
+01:04:35,910 --> 01:04:36,630
+No, absolutely.
+
+505
+01:04:37,450 --> 01:04:37,830
+Absolutely.
+
+506
+01:04:38,270 --> 01:04:41,550
+I'll be interested to hear for the next
+session where you see yourself growing
+
+507
+01:04:41,550 --> 01:04:43,350
+professionally over the next three or
+three years.
+
+508
+01:04:43,850 --> 01:04:47,270
+The answer is, yeah, I want to go to an
+international organization.
+
+509
+01:04:47,650 --> 01:04:48,710
+But yeah, that's the last one.
+
+510
+01:04:49,290 --> 01:04:51,670
+We managed to get through all of them,
+all the tough ones, at least.
+
+511
+01:05:25,280 --> 01:05:26,440
+Mm-hmm.
+
+512
+01:05:31,880 --> 01:05:33,000
+Yeah, of course.
+
+513
+01:05:37,420 --> 01:05:39,680
+And then have it all completely in Russian
+too.
+
+514
+01:05:40,260 --> 01:05:43,880
+Or translate it into 50 languages.
+
+515
+01:05:46,660 --> 01:05:47,960
+No, but it's a good idea.
+
+516
+01:05:48,180 --> 01:05:51,620
+You know, transcription services of the
+notes is fine.
+
+517
+01:05:51,720 --> 01:05:59,580
+But the reason that I type it out in real
+time is so we can collaborate together on
+
+518
+01:05:59,580 --> 01:06:02,260
+what makes sense from an answer.
+
+519
+01:06:05,120 --> 01:06:09,980
+You know, if for transcription,
+the problem with transcription is you get
+
+520
+01:06:09,980 --> 01:06:15,660
+all the writing at the end, unless it's
+actually dictating and you see it type in
+
+521
+01:06:15,660 --> 01:06:16,380
+front of you.
+
+522
+01:06:17,580 --> 01:06:20,060
+Because there's two different approaches,
+right?
+
+523
+01:06:20,800 --> 01:06:24,420
+Dictating software, which actually types
+out what you say right in front of you on
+
+524
+01:06:24,420 --> 01:06:29,660
+the screen, or you get a summary of
+everything that was said at the end of the
+
+525
+01:06:29,660 --> 01:06:35,120
+lesson, which is beneficial, but doesn't
+allow us to collaborate in the way that we
+
+526
+01:06:35,120 --> 01:06:35,600
+do now.
+
+527
+01:06:39,280 --> 01:06:44,380
+Yeah, so just be aware of that if you
+spend some time on automating what we're
+
+528
+01:06:44,380 --> 01:06:44,660
+doing.
+
+529
+01:06:44,800 --> 01:06:45,640
+And then, yeah, that would be good.
+
+530
+01:06:45,940 --> 01:06:46,560
+That would be cool.
+
+531
+01:06:47,100 --> 01:06:48,200
+Do you have a busy week ahead?
+
+532
+01:06:48,440 --> 01:06:51,000
+Or I shouldn't say busy week, a busy
+weekend?
+
+533
+01:06:52,420 --> 01:06:53,440
+A pretty low key.
+
+534
+01:07:11,470 --> 01:07:11,950
+Okay.
+
+535
+01:07:31,000 --> 01:07:34,800
+I want to see how valuable Craig is.
+
+536
+01:07:36,060 --> 01:07:36,060
+So,
+
+537
+01:07:39,680 --> 01:07:42,960
+I've never—we don't even say hello to
+Craig, eh?
+
+538
+01:07:44,680 --> 01:07:46,600
+We are rude, exceptionally rude.
+
+539
+01:07:48,620 --> 01:07:49,460
+Hello, Craig.
+
+540
+01:07:49,880 --> 01:07:51,460
+Craig, it's time for you to go to sleep.
+
+541
+01:07:52,080 --> 01:07:55,480
+You know, you don't say a damn thing,
+so time for you to go sayonara.
+
+542
+01:07:55,820 --> 01:07:59,180
+Go sleep and do something useful for once
+in your life.
+
+543
+01:08:05,850 --> 01:08:06,630
+Thank you.
+
+544
+01:08:08,390 --> 01:08:09,630
+Yeah, thanks a lot, Andrew.
+
+545
+01:08:09,710 --> 01:08:11,550
+It was a lot of fun, as always.
+
+546
+01:08:11,970 --> 01:08:14,430
+So, have a nice weekend as well.
+

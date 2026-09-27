@@ -4,3 +4,4 @@ _xxl_data/
 ffmpeg.exe
 faster-whisper-xxl.exe
 One Click Transcribe.bat
+**/**.flac

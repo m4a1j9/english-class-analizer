@@ -1,0 +1,562 @@
+[00:06.820 --> 00:08.220]  Silence.
+[01:01.980 --> 01:03.380]  Silence.
+[01:16.460 --> 01:17.860]  Silence.
+[01:25.890 --> 01:25.990]  Silence.
+[01:26.650 --> 01:27.230]  Silence.
+[03:02.230 --> 03:03.710]  Good afternoon, John.
+[03:06.710 --> 03:09.150]  Yeah, yeah, I can hear you okay.
+[03:09.690 --> 03:10.650]  At least for now.
+[03:11.990 --> 03:12.630]  How was it?
+[03:22.200 --> 03:25.260]  Well, it was a really intensive week,
+actually.
+[03:27.120 --> 03:35.160]  Shortly speaking, I have wrote in around
+5,000 lines of code for every day.
+[03:35.880 --> 03:36.960]  At least reviewing them.
+[03:38.100 --> 03:40.520]  And that was a lot, yeah.
+[03:41.480 --> 03:46.340]  Unfortunately, because of that,
+I didn't do anything about English.
+[03:47.000 --> 03:51.740]  And I'm not really prepared for the
+lesson, but we'll see what we can do.
+[04:24.920 --> 04:31.180]  Yeah, LLM have written everything,
+but I still have to review all this.
+[04:32.400 --> 04:33.640]  What about your week?
+[04:34.500 --> 04:35.300]  Was it uneventful?
+[05:10.260 --> 05:11.700]  That's good that you're feeling better.
+[05:11.700 --> 05:13.660]  Yeah, okay.
+[05:14.280 --> 05:21.900]  Why wouldn't we start the lesson?
+[05:22.300 --> 05:23.880]  Thanks for the demonstration.
+[05:47.130 --> 05:49.830]  It seems like the first one was the one.
+[06:01.060 --> 06:01.820]  Yeah, this one.
+[07:06.860 --> 07:09.380]  We should see the green areas.
+[07:09.380 --> 07:11.520]  Yeah, those ones.
+[07:16.010 --> 07:17.570]  It sounds like a good plan.
+[07:17.770 --> 07:20.450]  As you said, we can answer some questions.
+[07:20.930 --> 07:25.150]  And before or after that, review some
+previous ones.
+[08:37.810 --> 08:38.310]  Okay.
+[08:49.130 --> 08:51.750]  Okay, before I will try to answer it.
+[08:52.490 --> 08:58.710]  The same thing as for the previous answer,
+that I don't have an experience fixing
+[08:58.710 --> 08:59.730]  some production bugs.
+[08:59.730 --> 09:03.990]  But in this way, we can answer kind of the
+same.
+[09:04.790 --> 09:06.890]  We can describe the approach.
+[09:07.870 --> 09:09.170]  Usually, people do.
+[09:09.650 --> 09:15.750]  And then say something that I don't have
+such an experience.
+[09:15.850 --> 09:18.690]  Maybe because I'm just good enough at my
+major.
+[09:19.610 --> 09:19.990]  All right.
+[09:20.770 --> 09:28.750]  So we're talking about an emergency when
+some sort of bug reached the production.
+[09:30.070 --> 09:41.970]  First of all, we have to analyze and
+prioritize how crucial it is.
+[09:41.970 --> 09:49.990]  Sometimes we can fix it with just a minor
+commit.
+[09:50.250 --> 09:53.230]  Sometimes it's crucial enough to roll
+back.
+[09:53.690 --> 09:57.950]  For example, if it reaches some
+interactions with the customers,
+[09:58.430 --> 10:02.850]  so they can purchase their requests.
+[10:03.690 --> 10:10.610]  In this case, it's probably fair enough to
+roll back and fix everything at the first
+[10:10.610 --> 10:10.790]  step.
+[10:26.220 --> 10:29.300]  I did it quite fast, sorry.
+[10:43.980 --> 10:47.740]  And yeah, the last part is something
+like...
+[10:48.500 --> 10:53.700]  Unfortunately, during my career,
+I have never faced such a situation.
+[10:57.460 --> 11:01.480]  Which tells us maybe that I'm good at my
+major enough.
+[11:15.580 --> 11:16.420]  Encounter.
+[12:00.590 --> 12:02.890]  It seems like it is.
+[12:03.050 --> 12:10.050]  We definitely had some minor bugs that
+appear after a few weeks of release.
+[12:10.850 --> 12:14.850]  But at the time, we already fixed them on
+our dev branch.
+[12:18.010 --> 12:25.810]  And again, at the time that they
+reappeared, just a few days before the
+[12:25.810 --> 12:26.430]  next release.
+[12:26.770 --> 12:28.970]  So it's not that big.
+[12:29.350 --> 12:34.530]  And yeah, I think I didn't have such an
+experience in my entire career.
+[12:34.870 --> 12:34.870]  Yeah,
+[12:53.570 --> 12:54.870]  that's much better.
+[13:39.550 --> 13:40.610]  All right.
+[13:40.610 --> 13:42.610]  All right, so...
+[13:48.880 --> 13:50.580]  This way, okay, I get it.
+[13:50.640 --> 13:58.720]  Of course, I have some unimpactful bugs in
+my career.
+[14:00.860 --> 14:03.040]  Or we can say it in a little bit different
+way.
+[14:03.180 --> 14:06.620]  Some minor bugs in my career that they
+were unimpactful.
+[14:13.670 --> 14:14.630]  So...
+[14:17.690 --> 14:22.730]  We either had to just apply a minor fix.
+[14:23.410 --> 14:29.710]  Or wait for another release and fix
+everything in our dev branch.
+[14:39.600 --> 14:40.620]  A hot fix, maybe?
+[14:54.440 --> 14:55.540]  Until next schedule.
+[14:59.540 --> 15:00.500]  Oh, yeah.
+[15:01.440 --> 15:02.700]  Now I see it.
+[15:02.880 --> 15:04.640]  That's a better ending.
+[15:06.200 --> 15:11.260]  We're telling basically that even if we
+didn't have such a scenario, we still have
+[15:11.260 --> 15:11.960]  an experience.
+[15:12.840 --> 15:13.920]  At least some of it.
+[17:33.390 --> 17:34.910]  I didn't hear about this one.
+[17:35.150 --> 17:36.130]  We will check it later.
+[18:21.920 --> 18:22.380]  Okay.
+[18:24.120 --> 18:25.340]  Ah, yeah, thank you.
+[18:25.340 --> 18:25.400]  Thank you.
+[20:50.070 --> 20:53.710]  That's a solid way to prioritize things,
+John.
+[20:54.990 --> 21:01.110]  I kind of had a quite similar but in the
+same way simpler picture of prioritizing
+[21:01.110 --> 21:05.610]  by putting on the board the business value
+in the first place.
+[21:05.730 --> 21:08.770]  But this thing is better because it has
+four metrics.
+[22:01.490 --> 22:03.750]  So we can answer something.
+[22:04.310 --> 22:07.370]  Yes, back to the answer.
+[22:07.910 --> 22:09.610]  It's not my answer yet.
+[22:09.690 --> 22:10.990]  I'm just thinking about it.
+[22:11.310 --> 22:18.010]  We can answer something like that's
+usually the priority already identified by
+[22:18.010 --> 22:20.830]  contact managers or team leaders.
+[22:25.670 --> 22:30.250]  And as an engineer, we can follow it.
+[22:31.150 --> 22:32.050]  But if it's not,
+[22:36.170 --> 22:39.310]  and as an engineer, we can follow it.
+[22:40.450 --> 22:41.550]  We can usually follow it.
+[22:41.750 --> 22:41.890]  Uh-huh.
+[22:47.710 --> 22:48.750]  Interesting word.
+[22:48.890 --> 22:49.090]  Okay.
+[22:50.410 --> 22:57.990]  If it's not, and we got a responsibility
+in our own,
+[23:01.230 --> 23:02.000]  we can...
+[23:06.350 --> 23:12.690]  If it's not, and we have our own
+responsibility, or something like this,
+[23:12.850 --> 23:14.370]  I'm not really confident.
+[23:17.590 --> 23:28.350]  We can use some metrics to value tasks and
+prioritize them.
+[23:32.800 --> 23:33.220]  I don't know.
+[23:33.280 --> 23:35.480]  Is it necessary to mention RISE here?
+[23:35.680 --> 23:37.500]  Something like RISE, for example.
+[24:04.460 --> 24:04.680]  Uh-huh.
+[24:04.680 --> 24:04.700]  Okay.
+[24:04.980 --> 24:06.740]  Uh-huh.
+[24:22.140 --> 24:22.860]  Stakeholders.
+[24:22.860 --> 24:23.020]  Stakeholders.
+[24:23.260 --> 24:23.340]  Okay.
+[24:43.820 --> 24:44.300]  Uh-huh.
+[25:10.420 --> 25:12.080]  Like RISE, for instance.
+[25:13.160 --> 25:17.500]  And we have to finish somehow this answer.
+[25:19.660 --> 25:20.360]  Maybe.
+[25:20.360 --> 25:20.840]  Or
+[25:59.170 --> 26:02.690]  something like...
+[26:02.690 --> 26:04.210]  I will give you a role variant.
+[26:05.110 --> 26:09.350]  By using such methodologies and...
+[26:10.350 --> 26:15.390]  By using such methodologies and having
+established process, we can extract as
+[26:15.390 --> 26:26.650]  many business value from our current
+situation, as many as we could.
+[26:27.650 --> 26:28.830]  As many as we can.
+[26:29.130 --> 26:29.870]  Something like that.
+[26:30.650 --> 26:34.510]  The main thing is that we will get as many
+business value as we can.
+[27:19.750 --> 27:20.170]  Okay.
+[27:21.210 --> 27:22.570]  Let me read it once again.
+[27:23.550 --> 27:23.730]  Yeah.
+[27:24.270 --> 27:30.010]  Usually, the priority is identified by the
+product managers, team leads, and
+[27:30.010 --> 27:30.510]  stakeholders.
+[27:31.290 --> 27:35.510]  As an engineer, we can usually follow the
+value set in terms of what gets addressed
+[27:35.510 --> 27:36.030]  first.
+[27:36.030 --> 27:42.070]  However, if it's not, we have our own
+responsibility to verify the priority of
+[27:42.070 --> 27:47.090]  the completing activities using priority
+methodologies like RISE, for instance.
+[27:48.370 --> 27:52.890]  By using such methodologies, we have
+established process in place.
+[27:53.830 --> 27:58.530]  And by using such methodologies and having
+established processes in place,
+[27:58.970 --> 28:04.230]  we can extract the business values and
+impact from current situation and identify
+[28:04.230 --> 28:06.090]  as many priorities as we have.
+[28:10.070 --> 28:10.670]  Yeah.
+[28:10.790 --> 28:11.330]  I like it.
+[28:20.020 --> 28:21.520]  I also have a note about it.
+[28:21.660 --> 28:21.780]  Yeah.
+[29:14.840 --> 29:18.060]  I never heard anything about it.
+[29:18.140 --> 29:24.120]  But the closest thing I know is that
+usually in villages, some farmers get
+[29:24.120 --> 29:27.300]  birches for chickens.
+[29:31.340 --> 29:32.620]  Something like that.
+[29:32.700 --> 29:35.780]  Maybe that's something about it.
+[29:36.520 --> 29:41.120]  So they're literally climbing up and
+sleeping on some branches.
+[30:09.930 --> 30:10.530]  Wow.
+[30:14.370 --> 30:15.890]  I never heard about it.
+[30:16.070 --> 30:16.430]  Interesting.
+[30:24.640 --> 30:26.480]  I wonder how they claim.
+[30:26.640 --> 30:28.740]  Maybe I will get some videos about it.
+[31:15.510 --> 31:15.850]  Okay.
+[31:15.870 --> 31:17.770]  The question is yes or no.
+[31:17.970 --> 31:19.870]  And of course, we're answering yes.
+[31:20.150 --> 31:23.530]  And the next question, the main thing is
+how.
+[31:23.530 --> 31:28.010]  So how we did it, what especially I did,
+et cetera.
+[31:29.350 --> 31:34.670]  As always, let's first talk about how we
+can the approach for this answer.
+[31:36.150 --> 31:50.610]  So in my case, it wasn't a general
+situation because we got a new employee
+[31:50.610 --> 31:57.350]  that got quite the same, that was the same
+intelligence as me.
+[31:58.590 --> 32:01.510]  And the main thing I have to, I got to.
+[32:03.870 --> 32:05.110]  Oh, my God.
+[32:05.230 --> 32:06.330]  Give me a second, please.
+[32:24.030 --> 32:24.430]  Okay.
+[32:24.710 --> 32:33.470]  The main thing that I was supposed to do
+is to onboard him and provide a few,
+[32:33.750 --> 32:35.090]  a few documentations.
+[32:37.310 --> 32:38.950]  Provided a few documentations.
+[32:38.950 --> 32:49.030]  And yeah, because at the time,
+we got a mindset that this employee had
+[32:49.030 --> 33:01.090]  to, had to be self-sustained and have to
+not require any of mentoring, any of,
+[33:01.810 --> 33:05.090]  we don't even have to review the code he
+did.
+[33:07.090 --> 33:08.270]  That was the mental model.
+[33:08.270 --> 33:15.170]  So, of course, I get an experience of
+onboarding a new developer, but it was
+[33:15.170 --> 33:23.970]  much simpler than the usual, some usual
+cases.
+[33:28.320 --> 33:29.200]  All right.
+[33:29.760 --> 33:33.500]  And using this experience, how can we
+answer this question?
+[33:35.060 --> 33:38.100]  We have an, okay.
+[33:40.780 --> 33:49.080]  It will be something like, during my
+career, I was lucky enough to get an
+[33:49.080 --> 33:55.980]  opportunity to mentor and onboarding a new
+developer in our team.
+[34:04.150 --> 34:07.030]  To mentor and onboard a new developer in
+our team.
+[34:10.270 --> 34:10.830]  Okay.
+[34:10.910 --> 34:14.430]  We don't have, we don't have to tell the
+story.
+[34:14.810 --> 34:16.430]  We just have a few sentences.
+[34:20.560 --> 34:25.980]  I'm thinking about what exactly should I
+provide to answer how I did it.
+[34:35.320 --> 34:41.040]  Usually the team wants that the new
+stakeholder.
+[34:49.460 --> 34:50.500]  Oh my God.
+[34:51.120 --> 34:52.480]  During this, I don't know.
+[34:53.100 --> 34:59.960]  I'm just getting so many Russian-specific
+options to express, and I'm trying to
+[34:59.960 --> 35:00.700]  translate them.
+[35:00.800 --> 35:01.840]  It's not really possible.
+[35:04.020 --> 35:08.040]  And I'm rolling back and trying it again
+and again and again and again.
+[36:38.920 --> 36:40.240]  Self-sufficient.
+[36:53.220 --> 36:53.900]  Okay.
+[36:54.140 --> 36:57.320]  And the next part is about mentoring,
+right?
+[37:42.050 --> 37:43.950]  I think I'm, yeah.
+[37:44.630 --> 37:50.090]  I'm just, you know, in these kinds of
+situations, I think I'm not really
+[37:50.090 --> 37:54.190]  prepared for this question in general,
+because I have tried to answer it in
+[37:54.190 --> 37:55.030]  Russian in my head.
+[37:55.610 --> 37:59.990]  In parallel, and I not really succeeded
+either.
+[38:01.330 --> 38:02.070]  It's okay.
+[38:02.290 --> 38:02.870]  It's okay.
+[38:03.010 --> 38:05.090]  It just explains why I'm so slow right
+now.
+[38:07.170 --> 38:07.690]  Okay.
+[38:07.770 --> 38:08.710]  About mentoring.
+[38:08.710 --> 38:13.450]  What I did in my experience, before
+answering, before answering what I did in
+[38:13.450 --> 38:14.870]  my personal experience.
+[38:15.410 --> 38:23.190]  Since the person was qualified enough,
+the prior thing I did was during the code
+[38:23.190 --> 38:23.490]  review.
+[38:25.690 --> 38:34.090]  Even if it was a senior engineer,
+we still have to synchronize the way we
+[38:34.090 --> 38:34.790]  work together.
+[38:34.790 --> 38:41.010]  So everyone will follow the code standards
+described in the documents.
+[38:41.950 --> 38:45.790]  And even a senior could lack some...
+[38:48.850 --> 38:49.850]  Oh, my God.
+[38:50.590 --> 38:51.390]  Where is that word?
+[38:51.450 --> 38:51.990]  Hold on a second.
+[38:59.540 --> 39:00.160]  Yeah.
+[40:37.180 --> 40:37.800]  Yeah.
+[40:37.940 --> 40:38.580]  Thanks, John.
+[40:38.580 --> 40:45.420]  Maybe the proper mindset is to get on
+board my experience by coaching people
+[40:45.420 --> 40:47.980]  some basic stuff in programming.
+[40:48.240 --> 40:53.560]  Because I don't have a commercial
+experience, but I have a bunch of
+[40:53.560 --> 40:54.500]  uncommercial ones.
+[40:57.620 --> 40:58.340]  Okay.
+[40:59.580 --> 41:00.640]  Okay, okay.
+[41:00.800 --> 41:03.340]  And how we can apply them to this answer.
+[41:07.800 --> 41:09.960]  This is the junior developer.
+[41:10.920 --> 41:12.140]  So, okay.
+[41:12.340 --> 41:15.220]  We will get a bunch of code reviews,
+of course.
+[41:15.340 --> 41:18.000]  We will review the code and provide some
+feedback.
+[41:18.340 --> 41:18.640]  Yes.
+[41:19.660 --> 41:27.680]  And if it's challenging enough,
+we can also apply a short call and pay
+[41:27.680 --> 41:28.720]  program some things.
+[41:45.400 --> 41:47.280]  Even the juniors work.
+[41:47.280 --> 41:48.200]  Okay, okay.
+[41:48.280 --> 41:54.420]  We spend more time reviewing the junior
+engineers' work than experienced
+[41:54.420 --> 41:54.920]  professionals.
+[41:55.620 --> 41:57.280]  So we can provide some...
+[41:59.080 --> 42:01.340]  So we can provide a detailed feedback.
+[42:04.300 --> 42:06.280]  This will allow us to...
+[42:10.050 --> 42:11.250]  Some detailed feedback.
+[42:13.690 --> 42:16.790]  And if the situation is challenging
+enough...
+[42:19.610 --> 42:20.910]  We can also...
+[42:24.240 --> 42:25.560]  It's just...
+[42:31.960 --> 42:38.740]  If the situation is challenging enough,
+we also can apply...
+[42:38.740 --> 42:42.560]  We can also add some...
+[42:44.320 --> 42:48.220]  Some direct communication with a person.
+[42:55.280 --> 42:56.940]  In order to...
+[42:58.060 --> 42:59.740]  In order to ensure something.
+[43:00.640 --> 43:01.160]  I know.
+[43:09.740 --> 43:10.660]  Yeah, thanks.
+[43:27.980 --> 43:34.520]  Yeah, it must be a little bit shorter
+because we still have to end it somehow.
+[43:35.180 --> 43:38.200]  It kind of lacks of ending, but yeah,
+it's okay for now.
+[44:01.930 --> 44:03.010]  Mm-hmm.
+[44:05.370 --> 44:06.570]  The time...
+[44:06.570 --> 44:07.770]  I had to learn a new phrase.
+[44:09.350 --> 44:09.950]  Okay.
+[44:11.290 --> 44:12.570]  About a time.
+[44:13.790 --> 44:19.670]  So again, it's not supposed to be a story
+or passage, but we have to provide some
+[44:19.670 --> 44:24.870]  details about what techniques we used or
+something like that.
+[44:41.270 --> 44:42.970]  It was a hard summer day.
+[44:42.970 --> 44:43.370]  Yeah.
+[44:55.420 --> 44:57.580]  You're describing my city right now.
+[45:43.100 --> 45:44.540]  Yeah, it might be rural.
+[45:44.760 --> 45:47.400]  I didn't know about this, though.
+[45:47.880 --> 45:49.840]  But yeah, I can imagine.
+[45:50.920 --> 45:51.860]  I face just...
+[45:52.540 --> 45:54.480]  It's in a different way from my
+facilities.
+[45:56.540 --> 45:57.180]  Okay.
+[45:58.280 --> 45:59.800]  Well, back to the question.
+[46:01.040 --> 46:02.320]  The time.
+[46:04.860 --> 46:06.860]  It will be something like...
+[46:07.860 --> 46:11.000]  Yeah, in one of my last positions,
+[46:14.720 --> 46:23.300]  I talked about one specific technology
+that the team required.
+[46:25.120 --> 46:38.340]  That everyone in the team used,
+and it was required in order to be
+[46:38.340 --> 46:39.340]  self-sustained.
+[46:40.340 --> 46:41.540]  Be self-sustained.
+[46:45.040 --> 46:50.600]  The tool was quite complex, and it...
+[46:54.920 --> 46:56.540]  Okay, let's use it again.
+[46:56.660 --> 47:02.960]  And it requires a lot of investments in
+order to achieve a progress.
+[47:05.970 --> 47:07.790]  In order to achieve a progress.
+[47:16.780 --> 47:19.800]  The main thing I did is...
+[47:22.560 --> 47:23.400]  Okay, okay.
+[47:24.520 --> 47:28.400]  Yeah, let's start with something.
+[47:29.100 --> 47:30.600]  The main thing I did was simple.
+[47:31.240 --> 47:34.880]  I prioritized this thing over others.
+[47:35.340 --> 47:40.780]  And I also spent some extra time besides
+my...
+[47:40.780 --> 47:41.940]  Besides my...
+[47:45.020 --> 47:46.900]  How can I express it?
+[47:47.540 --> 47:49.200]  Besides my...
+[47:49.780 --> 47:51.860]  Besides my work time, something like that.
+[47:54.460 --> 47:55.140]  I spent some...
+[47:55.140 --> 47:55.700]  Ah, yeah, thanks.
+[47:58.720 --> 48:02.740]  I prioritized this item above others and
+spent some personal time.
+[48:03.520 --> 48:04.720]  And spent some personal time.
+[48:06.580 --> 48:08.720]  I also asked...
+[48:13.660 --> 48:14.820]  Ah, yeah.
+[48:15.060 --> 48:18.960]  I also asked my lead.
+[48:19.920 --> 48:29.060]  So I will get a few extra tasks that
+required using this specific tool.
+[48:29.280 --> 48:31.000]  So I can practice it.
+[48:34.720 --> 48:36.760]  In parallel while learning it.
+[48:47.200 --> 48:48.620]  We'll get a practice.
+[48:50.840 --> 48:52.520]  Experience learning the tool.
+[48:53.400 --> 48:54.280]  In a real world.
+[48:56.000 --> 48:56.980]  Ah, in a real world.
+[48:57.160 --> 48:58.720]  Yeah, okay, okay.
+[49:02.040 --> 49:03.600]  And that's it, actually.
+[49:04.420 --> 49:05.840]  We also...
+[49:05.840 --> 49:09.880]  We could add some finishing, but it's not
+really necessary here.
+[49:28.420 --> 49:28.980]  Wow.
+[50:01.880 --> 50:04.940]  In the real world, I'm still struggling
+with this one.
+[50:06.880 --> 50:07.480]  Yeah.
+[51:10.060 --> 51:14.680]  Okay, I'm thinking from what I can even
+start.
+[51:15.640 --> 51:17.760]  So, okay, again, the question is how.
+[51:17.980 --> 51:24.080]  So how you do it and what specific things
+you're bringing up.
+[51:50.660 --> 51:59.000]  I even got enough luck to be able to...
+[51:59.000 --> 52:00.580]  Oh, God.
+[52:00.760 --> 52:02.520]  Okay, hold on a second.
+[52:03.660 --> 52:08.880]  I just faced with another Russian option
+of expression.
+[52:14.720 --> 52:17.420]  Let me translate it first.
+[52:33.300 --> 52:34.540]  Oh, God.
+[52:35.300 --> 52:37.180]  I don't think we will understand each
+other.
+[52:37.340 --> 52:43.640]  But okay, the translator says me something
+like to lobby for my own case.
+[52:44.820 --> 52:46.040]  So it's simple.
+[52:49.420 --> 52:56.620]  The translator suggesting there's
+something like to lobby for one's case.
+[52:59.500 --> 53:08.100]  Using simple words, what it means that at
+my position, I wanted to implement an
+[53:08.100 --> 53:10.840]  internal feature for my applications.
+[53:11.760 --> 53:16.380]  And, of course, it helped the business
+somehow.
+[53:16.860 --> 53:19.080]  But primarily, it was my initiative.
+[53:19.720 --> 53:22.980]  And I asked for it for quite a long.
+[53:23.140 --> 53:26.440]  And I finally get a chance to implement
+it.
+[53:26.620 --> 53:31.100]  And got a few time resources for it.
+[53:32.760 --> 53:34.200]  That's what I'm trying to say.
+[53:36.340 --> 53:40.960]  I wonder, is there a more professional way
+to explain it?
+[54:04.260 --> 54:05.720]  Yeah, and that's...
+[54:07.260 --> 54:08.240]  Okay, okay.
+[54:08.500 --> 54:12.980]  And the main thing is that that feature
+was large enough.
+[54:14.940 --> 54:18.940]  At the beginning of our today's lesson,
+I said that for the last few days,
+[54:19.080 --> 54:21.440]  I wrote a few thousands of code every day.
+[54:22.100 --> 54:26.980]  And that's because I was writing that
+specific feature.
+[54:27.860 --> 54:32.300]  It was so large that I even decided to
+create a storyline for this.
+[54:32.640 --> 54:35.940]  And split it for some lower tasks.
+[54:36.740 --> 54:42.980]  It was one of my first experiences
+managing this kind of stuff.
+[54:42.980 --> 54:50.940]  And unfortunately, I kind of underestimate
+this one.
+[54:53.080 --> 54:57.000]  And yeah, because of that, I still...
+[54:57.680 --> 54:58.440]  Not still.
+[54:58.860 --> 55:00.800]  I finished it just yesterday.
+[55:01.460 --> 55:06.060]  But initially, it has to be finished at
+the end of the previous week.
+[55:07.740 --> 55:10.120]  Yeah, but it's still experience.
+[55:10.120 --> 55:13.500]  And I believe I learned something.
+[55:17.540 --> 55:20.260]  Anyway, so story points.
+[55:20.720 --> 55:23.000]  Splitting the large task to a smaller one.
+[55:23.740 --> 55:28.840]  And applying some techniques to estimate
+it properly.
+[55:34.180 --> 55:37.120]  From what can I begin?
+[57:34.260 --> 57:35.740]  Optimistic activities.
+[57:35.740 --> 57:41.040]  There are smaller and concise rather than
+an overall estimate.
+[57:42.300 --> 57:43.720]  On the main goal of the requests.
+[57:47.780 --> 57:50.100]  I have one sub-question.
+[57:51.060 --> 57:57.060]  Should we mention something about story
+points?
+[57:57.980 --> 58:01.600]  All these metrics that everyone is using.
+[58:01.780 --> 58:04.560]  Should we mention that we're using these
+ones?
+[58:04.560 --> 58:12.400]  Or it's so generally widespread that we
+don't even have to bother ourselves by
+[58:12.400 --> 58:13.040]  mentioning that.
+[59:52.570 --> 59:53.470]  Yes,
+[59:56.730 --> 59:57.150]  absolutely.
+[01:00:28.900 --> 01:00:34.280]  Yeah, this is basically how we estimate
+the task in a real world.
+[01:00:34.280 --> 01:00:39.120]  And yeah, I'm looking at the way we
+structure the answer.
+[01:00:40.780 --> 01:00:42.120]  For context.
+[01:02:10.210 --> 01:02:10.850]  Okay.
+[01:02:11.690 --> 01:02:12.870]  Okay, okay.
+[01:02:14.010 --> 01:02:16.730]  I'm also thinking about that.
+[01:02:16.970 --> 01:02:22.270]  We're usually trying to put off a specific
+tool or thing.
+[01:02:22.770 --> 01:02:25.830]  And talk about things in a general way.
+[01:02:25.830 --> 01:02:30.230]  But in this answer we're specifically
+talking about Jira.
+[01:02:30.530 --> 01:02:35.030]  Some specific mythology of estimating the
+tasks.
+[01:02:35.490 --> 01:02:36.470]  The story points.
+[01:02:37.230 --> 01:02:39.330]  Epics and user stories, etc.
+[01:02:40.110 --> 01:02:45.150]  So I guess it's because it's so widely
+spread that everyone is already aware
+[01:02:45.150 --> 01:02:46.270]  about it.
+[01:02:47.070 --> 01:02:47.750]  Isn't it?
+[01:03:34.480 --> 01:03:35.300]  Okay.
+[01:03:36.000 --> 01:03:37.080]  Well, yeah.
+[01:03:40.680 --> 01:03:48.160]  I'm just usually thinking about that the
+more advanced your level, the longer you
+[01:03:48.160 --> 01:03:49.640]  can construct the sentences.
+[01:03:50.180 --> 01:03:54.780]  The same way it applies probably for any
+languages.
+[01:03:55.200 --> 01:03:57.800]  As well as Russian, as well as even
+programming languages.
+[01:03:58.780 --> 01:04:04.200]  And yeah, for example, the second sentence
+in that question was impressive.
+[01:04:08.440 --> 01:04:12.260]  It's quite above my level, but yeah,
+I like it anyway.
+[01:04:32.520 --> 01:04:34.560]  Yeah, it's good, don't get me wrong.
+[01:04:52.880 --> 01:04:55.880]  Yeah, at least we get the raw option here.
+[01:04:56.620 --> 01:05:06.880]  While I was thinking during the lesson as
+well, maybe I can bring something to make
+[01:05:06.880 --> 01:05:08.020]  your life a little bit easier.
+[01:05:08.360 --> 01:05:13.960]  So all of my answers will be recorded and
+translated to script directly.
+[01:05:14.680 --> 01:05:18.220]  Without needing to write it by hand.
+[01:05:18.740 --> 01:05:20.500]  So I can answer it.
+[01:05:21.160 --> 01:05:24.720]  Everything will be written in a document
+or somewhere.
+[01:05:24.720 --> 01:05:30.680]  And based on that raw output, we can
+translate it to some better option.
+[01:05:32.220 --> 01:05:34.220]  Maybe it will be a little bit better.
+[01:05:34.360 --> 01:05:37.340]  It's just my thoughts at the moment.
+[01:06:04.960 --> 01:06:05.560]  Yes.
+[01:06:05.740 --> 01:06:05.960]  Yeah,
+[01:06:37.530 --> 01:06:37.890]  I agree.
+[01:06:52.090 --> 01:06:55.950]  It probably will be quite a busy weekend.
+[01:06:56.290 --> 01:06:58.630]  I have to do some things.
+[01:07:00.110 --> 01:07:04.090]  Yeah, let's just say something,
+because it will be quite a long story
+[01:07:04.090 --> 01:07:04.590]  otherwise.
+[01:07:05.230 --> 01:07:11.950]  But I will still try to find some time at
+least to review the answers, review the
+[01:07:11.950 --> 01:07:13.970]  transcription of our lessons.
+[01:07:14.630 --> 01:07:18.830]  I still have free transcriptions,
+freehold transcriptions to review.
+[01:07:19.690 --> 01:07:27.830]  I established the system that will provide
+me the feedback and the short output.
+[01:07:27.830 --> 01:07:30.870]  But I haven't even opened it yet,
+unfortunately.
+[01:07:36.020 --> 01:07:37.860]  Craig is valuable, of course.
+[01:07:42.940 --> 01:07:44.200]  How rude we are.
+[01:07:47.140 --> 01:07:48.460]  Hello, Craig, how are you doing?
+[01:08:02.040 --> 01:08:04.740]  OK, John, I hope you will get a nice
+weekend.
+[01:08:05.000 --> 01:08:07.220]  And we'll see you together next Tuesday.
+[01:08:11.890 --> 01:08:12.450]  Yeah.
+[01:08:14.890 --> 01:08:15.590]  Thank you.
+[01:08:16.110 --> 01:08:16.550]  See you.
+[01:08:16.730 --> 01:08:17.210]  Bye-bye.
