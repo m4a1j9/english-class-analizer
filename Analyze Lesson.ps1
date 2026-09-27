@@ -25,6 +25,7 @@ $root      = Split-Path -Parent $MyInvocation.MyCommand.Path
 $promptDir = Join-Path $root 'prompts'
 $knownFile = Join-Path $promptDir 'known-phrases.md'
 # Words/phrases already learned via anki-auto: { "phrase": timesSeen, ... }
+# READ-ONLY here. anki-auto owns this file; this project must never write to it.
 $learnedFile = Join-Path (Split-Path -Parent $root) 'learned.json'
 
 Write-Host ''
@@ -136,7 +137,9 @@ $Transcript
     $payloadFile = [IO.Path]::GetTempFileName()
     [IO.File]::WriteAllText($payloadFile, $payload, $script:utf8NoBom)
     try {
-        $out = & cmd /c "type `"$payloadFile`" | claude -p --model $script:Model 2`>`"$ErrLog`""
+        # Text in, text out: no file or shell tools, so nothing (learned.json
+        # included) can be modified by the analysis run.
+        $out = & cmd /c "type `"$payloadFile`" | claude -p --model $script:Model --disallowedTools Write Edit NotebookEdit Bash PowerShell 2`>`"$ErrLog`""
         $code = $LASTEXITCODE
     }
     finally {
